@@ -18,8 +18,9 @@ soup = BeautifulSoup(req.content, 'html.parser')
 table = soup.find_all('table')[0] # Grab the first table
 
 row_marker = 0
-
 stigs = []
+
+versionRegex = r'V\dR\d(\d)?(\d)?'
 
 def cleanText(inputText):
     return re.sub(' +', ' ', inputText.replace('\r', ' ').replace('\u200b', '').replace('\n', ' ').split('\t')[0].strip()).strip()
@@ -38,15 +39,21 @@ for row in table.find_all('tr'):
                 name = cleanText(column.get_text())
         if (href != "" and name != "" and size != "" and ('stig' in name.lower() or 'benchmark' in name.lower() or 'stig' in href.lower() or 'benchmark' in href.lower()) and "viewer" not in name.lower()):
             # If we have a zip file
+            filename = href.split('/')[-1]
             if (href.lower().endswith('.zip')):
-                stigs.append({
-                    'name': name,
-                    'href': href,
-                    'size': size
-                })
+                versionMatches = re.search(versionRegex, filename.upper())
+                if versionMatches is not None:
+                    version = versionMatches.group(0)
+                    stigs.append({
+                        'name': name,
+                        'href': href,
+                        'size': size,
+                        'version': version
+                    })
+                else:
+                    print(f"Could not find version in {filename}")
     except:
         print("Error parsing row: ")
-        print(row)
 
 with open('stigs.json', 'w') as outfile:
     json.dump(stigs, outfile, indent=2)
