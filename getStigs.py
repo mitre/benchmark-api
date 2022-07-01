@@ -45,7 +45,7 @@ for row in table.find_all('tr'):
             if idx == 1:
                 href = column.find('a')['href']
                 name = cleanText(column.get_text())
-        if (href != "" and name != "" and size != "" and ('stig' in name.lower() or 'benchmark' in name.lower() or 'stig' in href.lower() or 'benchmark' in href.lower()) and "viewer" not in name.lower()):
+        if (href != "" and name != "" and size != "" and ('stig' in name.lower() or 'benchmark' in name.lower() or 'stig' in href.lower() or 'benchmark' in href.lower()) and "viewer" not in name.lower() and "srg" not in href.lower()):
             # If we have a zip file
             filename = href.split('/')[-1]
             if (href.lower().endswith('.zip')):
@@ -62,7 +62,14 @@ for row in table.find_all('tr'):
                             currentSimilarity = similarity
                             similarStig = stig
                     if similarStig is not None:
-                        print("Found similar stig: " + stig['name'])
+                        stigs.append({
+                            'id': similarStig['id'],
+                            'name': name,
+                            'version': int(versionNumber),
+                            'release': int(releaseNumber),
+                            'size': size,
+                            'url': href
+                        })
                     else:
                         stigs.append({
                             'id': str(uuid.uuid4()),
