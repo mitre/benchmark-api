@@ -1,7 +1,9 @@
 import requests
-from bs4 import BeautifulSoup
 import re
 import json
+import uuid
+from bs4 import BeautifulSoup
+from difflib import SequenceMatcher
 
 url = "https://public.cyber.mil/stigs/downloads/"
 
@@ -21,6 +23,12 @@ row_marker = 0
 stigs = []
 
 versionRegex = r'V\dR\d(\d)?(\d)?'
+
+existingStigs = []
+
+# Load existing stigs
+with open('stigs.json', 'r') as f:
+    existingStigs = json.load(f)
 
 def cleanText(inputText):
     return re.sub(' +', ' ', inputText.replace('\r', ' ').replace('\u200b', '').replace('\n', ' ').split('\t')[0].strip()).strip()
@@ -45,13 +53,25 @@ for row in table.find_all('tr'):
                 if versionMatches is not None:
                     versionString = versionMatches.group(0)
                     versionNumber, releaseNumber = re.findall(r'\d+', versionString)
-                    stigs.append({
-                        'name': name,
-                        'href': href,
-                        'size': size,
-                        'version': int(versionNumber),
-                        'release': int(releaseNumber)
-                    })
+                    # Check if we have a stig with a smiliar name
+                    similarStig = None
+                    currentSimilarity = 0.0
+                    for stig in existingStigs:
+                        similarity = SequenceMatcher(None, stig['name'], name).ratio()
+                        if similarity > 0.85 and similarity > currentSimilarity:
+                            currentSimilarity = similarity
+                            similarStig = stig
+                    if similarStig is not None:
+                        print("Found similar stig: " + stig['name'])
+                    else:
+                        stigs.append({
+                            'id': str(uuid.uuid4()),
+                            'name': name,
+                            'href': href,
+                            'size': size,
+                            'version': int(versionNumber),
+                            'release': int(releaseNumber)
+                        })
                 else:
                     print(f"Could not find version in {filename}")
     except:

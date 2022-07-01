@@ -1,5 +1,6 @@
 [
   {
+    "id": "3a2142cb-f0c9-4969-befe-fcfd5afd2bf6",
     "name": "A10 Networks ADC ALG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_A10_Networks_ADC_ALG_V2R1_STIG.zip",
     "size": "523.3 KB",
@@ -7,6 +8,7 @@
     "release": 1
   },
   {
+    "id": "09491013-76aa-4667-a2d2-24ac75325ff1",
     "name": "A10 Networks Application Delivery Controller (ADC) NDM STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_A10_Networks_ADC_NDM_V1R1_STIG.zip",
     "size": "269.56 KB",
@@ -14,6 +16,7 @@
     "release": 1
   },
   {
+    "id": "85780ee5-6d98-47c0-a9f8-bcd7c2375469",
     "name": "A10 Networks Application Delivery Controller (ADC) Overview, Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_A10_Networks_ADC_V1R1_Overview.zip",
     "size": "86.24 KB",
@@ -21,6 +24,7 @@
     "release": 1
   },
   {
+    "id": "5c3c9b75-16a9-4096-8eac-7e689741f03f",
     "name": "AAA SRG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_AAA_Services_V1R2_SRG.zip",
     "size": "665.83 KB",
@@ -28,6 +32,7 @@
     "release": 2
   },
   {
+    "id": "42b5cde5-2119-46fa-9ebb-6e1514472f62",
     "name": "Active Directory Domain STIG - Ver 3, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Active_Directory_Domain_V3R1_STIG.zip",
     "size": "699.18 KB",
@@ -35,6 +40,7 @@
     "release": 1
   },
   {
+    "id": "739ef2d6-2db6-467f-9b18-695488bdd60d",
     "name": "Active Directory Forest STIG - Ver 2, Rel 8",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Active_Directory_Forest_V2R8_STIG.zip",
     "size": "433.92 KB",
@@ -42,6 +48,7 @@
     "release": 8
   },
   {
+    "id": "7014b702-98fd-4c80-87fe-f1fbf69c986f",
     "name": "Adobe Acrobat Professional DC Continuous Track STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Pro_DC_Continuous_V2R1_STIG.zip",
     "size": "1.33 MB",
@@ -49,6 +56,7 @@
     "release": 1
   },
   {
+    "id": "ce881f77-637e-43f3-a613-fa012324f482",
     "name": "Adobe Acrobat Reader DC Continuous Track STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Reader_DC_Continuous_V2R1_STIG.zip",
     "size": "818.02 KB",
@@ -56,6 +64,7 @@
     "release": 1
   },
   {
+    "id": "a6a7e2b1-7237-4093-9192-9a1c44756eaf",
     "name": "Adobe Acrobat Reader DC Continuous Track STIG Benchmark - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Reader_DC_Continuous_V2R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "10.79 KB",
@@ -63,6 +72,7 @@
     "release": 1
   },
   {
+    "id": "a93630ba-8dac-46cb-b635-4715d6ece703",
     "name": "Akamai KSD Service IL2 ALG STIG Version 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Akamai_KSD_Service_IL2_ALG_V1R1_STIG.zip",
     "size": "314.77 KB",
@@ -70,6 +80,7 @@
     "release": 1
   },
   {
+    "id": "6b4fce9d-4542-435e-b8f4-cdc0b9c868e0",
     "name": "Akamai KSD Service IL2 NDM STIG Version 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Akamai_KSD_Service_IL2_NDM_V1R1_STIG.zip",
     "size": "309.02 KB",
@@ -77,6 +88,7 @@
     "release": 1
   },
   {
+    "id": "953a8940-65a6-4870-a6b3-4a2a9c39a409",
     "name": "Akamai KSD Service IL2 STIG Overview",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Akamai_KSD_Service_IL2_V1R1_Overview.zip",
     "size": "136.95 KB",
@@ -84,6 +96,7 @@
     "release": 1
   },
   {
+    "id": "b52b205f-a2ce-4c58-9fc5-eb5660b6cf72",
     "name": "Apache 2.2 STIG UNIX - Ver 1, Rel 11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apache_2-2_UNIX_V1R11_STIG.zip",
     "size": "839.22 KB",
@@ -91,6 +104,7 @@
     "release": 11
   },
   {
+    "id": "9002d576-0c00-43a7-ae7a-8a82164704ac",
     "name": "Apache 2.2 STIG Windows - Ver 1, Rel 13",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apache_2-2_WIN_V1R13_STIG.zip",
     "size": "827.34 KB",
@@ -98,6 +112,7 @@
     "release": 13
   },
   {
+    "id": "65ec09e5-d9ce-4887-ad89-9e0ba83d40fa",
     "name": "Apache Tomcat Application Server 9 STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apache_Tomcat_Application_Server_9_V2R4_STIG.zip",
     "size": "1.61 MB",
@@ -105,6 +120,7 @@
     "release": 4
   },
   {
+    "id": "40d2ff76-ecdd-4480-acea-07226d7e2876",
     "name": "Apple iOS 12 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_iOS_12_V1R2_STIG.zip",
     "size": "1.28 MB",
@@ -112,6 +128,7 @@
     "release": 2
   },
   {
+    "id": "a4a3a7b7-5c18-46fb-952a-91a6c6430684",
     "name": "Apple iOS/iPad OS 14 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_iOS_iPadOS_14_V1R2_STIG.zip",
     "size": "2.18 MB",
@@ -119,6 +136,7 @@
     "release": 2
   },
   {
+    "id": "09004fd7-2e0b-49e9-80d7-d89f64dd4a3d",
     "name": "Apple iOS/iPadOS 15 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_iOS-iPadOS_15_V1R2_STIG.zip",
     "size": "1.57 MB",
@@ -126,6 +144,7 @@
     "release": 2
   },
   {
+    "id": "c11f777d-e28f-474c-8f17-cc3bfbf0ecfd",
     "name": "Apple macOS 10.15 STIG - Ver 1, Rel 8",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_OS_X_10-15_V1R8_STIG.zip",
     "size": "1.75 MB",
@@ -133,6 +152,7 @@
     "release": 8
   },
   {
+    "id": "78b6f600-6e77-4322-ad35-bd008b121e90",
     "name": "Apple macOS 11 (Big Sur) STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_macOS_11_V1R6_STIG.zip",
     "size": "1.03 MB",
@@ -140,6 +160,7 @@
     "release": 6
   },
   {
+    "id": "af056ef6-17a1-45f9-bb21-e79b5294f5e5",
     "name": "Apple macOS 12 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_macOS_12_V1R2_STIG.zip",
     "size": "945.85 KB",
@@ -147,6 +168,7 @@
     "release": 2
   },
   {
+    "id": "3d18cdaf-8759-4bf9-8ee0-9f81bb621b8b",
     "name": "Application Layer Gateway (ALG) SRG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Application_Layer_Gateway_V1R2_SRG.zip",
     "size": "579.7 KB",
@@ -154,6 +176,7 @@
     "release": 2
   },
   {
+    "id": "b5bf969e-3061-43a5-9859-4176a90d8b6c",
     "name": "Application Security and Development STIG - Ver 5, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ASD_V5R1_STIG.zip",
     "size": "1020.29 KB",
@@ -161,6 +184,7 @@
     "release": 1
   },
   {
+    "id": "5bdb2704-b762-4a48-8b54-f99d512d4650",
     "name": "Application Server SRG - Ver 3, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Application_Server_V3R2_SRG.zip",
     "size": "838.79 KB",
@@ -168,6 +192,7 @@
     "release": 2
   },
   {
+    "id": "e8f90c91-1c42-4d1e-ad1f-605b75475dc2",
     "name": "BIND 9.x STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BIND_9-x_V2R2_STIG.zip",
     "size": "702.63 KB",
@@ -175,6 +200,7 @@
     "release": 2
   },
   {
+    "id": "5d86fbc2-03f7-4689-87f7-0da8d018c516",
     "name": "BlackBerry Enterprise Mobility Server (BEMS) 2.x STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BEMS_2-x_V1R3_STIG.zip",
     "size": "1.29 MB",
@@ -182,6 +208,7 @@
     "release": 3
   },
   {
+    "id": "00147d8f-2dca-475f-8afe-e4f339c9bedf",
     "name": "Blackberry UEM STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BB_UEM_MDM_V2R1_STIG.zip",
     "size": "1.54 MB",
@@ -189,6 +216,7 @@
     "release": 1
   },
   {
+    "id": "a3c8fff6-10c8-42f0-a700-11932918f70e",
     "name": "CA API Gateway ALG STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CA_API_Gateway_ALG_V1R2_STIG.zip",
     "size": "540.17 KB",
@@ -196,6 +224,7 @@
     "release": 2
   },
   {
+    "id": "5347f051-1305-46f0-9378-516d1ae4a2c0",
     "name": "CA API Gateway NDM STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CA_API_Gateway_NDM_V1R1_STIG.zip",
     "size": "279.81 KB",
@@ -203,6 +232,7 @@
     "release": 1
   },
   {
+    "id": "45e3ee45-98b4-4f42-ae15-916ad6b1d417",
     "name": "CA API Gateway STIG Ver 1 Overview",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CA_API_Gateway_V1R1_Overview.zip",
     "size": "89.21 KB",
@@ -210,6 +240,7 @@
     "release": 1
   },
   {
+    "id": "9d37b17b-c50b-4c7c-8bbd-65cfa209e7b8",
     "name": "CA IDMS STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CA_IDMS_V1R1_STIG.zip",
     "size": "1.35 MB",
@@ -217,6 +248,7 @@
     "release": 1
   },
   {
+    "id": "f615228d-69d0-4450-99fa-4bab0ea8eb2a",
     "name": "Canonical Ubuntu 18.04 LTS STIG - Ver 2, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_18-04_LTS_V2R7_STIG.zip",
     "size": "850.27 KB",
@@ -224,6 +256,7 @@
     "release": 7
   },
   {
+    "id": "eeeb077d-6a4f-415b-b829-beba5cb16f4b",
     "name": "Canonical Ubuntu 18.04 LTS STIG Benchmark - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_18-04_V2R6_STIG_SCAP_1-2_Benchmark.zip",
     "size": "52 KB",
@@ -231,6 +264,7 @@
     "release": 6
   },
   {
+    "id": "90b9785b-bf8d-4174-863e-3a6ab2d8bb26",
     "name": "Canonical Ubuntu 18.04 LTS STIG for Ansible - Ver 2, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_18-04_LTS_V2R7_STIG_Ansible.zip",
     "size": "352.96 KB",
@@ -238,6 +272,7 @@
     "release": 7
   },
   {
+    "id": "89a2cd88-6141-4375-9730-363cda502936",
     "name": "Canonical Ubuntu 20.04 LTS STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_20-04_LTS_V1R4_STIG.zip",
     "size": "1.59 MB",
@@ -245,6 +280,7 @@
     "release": 4
   },
   {
+    "id": "8e2d8281-ea3a-4c05-9f60-cb54eb5abc96",
     "name": "Canonical Ubuntu 20.04 LTS STIG Benchmark - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_20-04_LTS_V1R2_STIG_SCAP_1-2_Benchmark.zip",
     "size": "59.33 KB",
@@ -252,6 +288,7 @@
     "release": 2
   },
   {
+    "id": "892db187-888b-43d6-924d-e28778bc8d25",
     "name": "Canonical Ubuntu 20.04 LTS STIG for Ansible - Ver1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_20-04_LTS_V1R4_STIG_Ansible.zip",
     "size": "352 KB",
@@ -259,6 +296,7 @@
     "release": 4
   },
   {
+    "id": "f4592269-6194-4171-8c30-94025a28f193",
     "name": "CCI Specification",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_draft_cci_specification_v2r0.2.zip",
     "size": "112.14 KB",
@@ -266,6 +304,7 @@
     "release": 0
   },
   {
+    "id": "16ffd677-93f7-4b20-b2e7-3d1e04239b38",
     "name": "Central Log Server SRG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Central_Log_Server_V2R1_SRG.zip",
     "size": "831.86 KB",
@@ -273,6 +312,7 @@
     "release": 1
   },
   {
+    "id": "5608548c-c176-4be5-b7c8-f36af5bb775c",
     "name": "Cisco IOS XE Router NDM RTR STIG for Ansible - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS_XE_Router_NDM_RTR_V2R3_STIG_Ansible.zip",
     "size": "402.99 KB",
@@ -280,6 +320,7 @@
     "release": 3
   },
   {
+    "id": "c7a2cd2c-1d06-41d6-add9-fb9be4aba6b3",
     "name": "Cisco IOS XE Router NDM STIG Benchmark - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS-XE_Router_NDM_V1R3_STIG_SCAP_1-3_Benchmark.zip",
     "size": "18.35 KB",
@@ -287,6 +328,7 @@
     "release": 3
   },
   {
+    "id": "7839f916-2d32-4117-8cf0-eb6313eb3e09",
     "name": "Cisco IOS XE Router STIG for Ansible - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS_XE_Router_V2R1_STIG_Ansible.zip",
     "size": "713.94 KB",
@@ -294,6 +336,7 @@
     "release": 1
   },
   {
+    "id": "13f6b48d-5eb4-4555-8666-cc10e928a6be",
     "name": "Cisco IOS-XE Router RTR STIG Benchmark - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS-XE_Router_RTR_V1R1_STIG_SCAP_1-3_Benchmark.zip",
     "size": "6.86 KB",
@@ -301,6 +344,7 @@
     "release": 1
   },
   {
+    "id": "56a799a0-5bd5-4d2d-8eda-b0020b9602c5",
     "name": "Container Platform SRG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Container_Platform_V1R3_SRG.zip",
     "size": "785.1 KB",
@@ -308,6 +352,7 @@
     "release": 3
   },
   {
+    "id": "e3d00b84-5808-47d5-8237-5cf2c05083dc",
     "name": "Crunchy Data PostgreSQL STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CD_PGSQL_V1R1_STIG.zip",
     "size": "2.67 MB",
@@ -315,6 +360,7 @@
     "release": 1
   },
   {
+    "id": "37255dbe-717b-48d1-9735-56c7e0cf9ff7",
     "name": "Database SRG - Ver 3, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Database_V3R2_SRG.zip",
     "size": "879.29 KB",
@@ -322,6 +368,7 @@
     "release": 2
   },
   {
+    "id": "f704b7a5-dc9c-42a3-b74b-9815ae43e21a",
     "name": "DBN-6300 IDPS STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_DBN-6300_IDPS_V1R1_STIG.zip",
     "size": "309.65 KB",
@@ -329,6 +376,7 @@
     "release": 1
   },
   {
+    "id": "9bf63d36-47cc-4dd8-9240-b07956196b73",
     "name": "DBN-6300 NDM STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_DBN-6300_NDM_V1R1_STIG.zip",
     "size": "320.44 KB",
@@ -336,6 +384,7 @@
     "release": 1
   },
   {
+    "id": "0d53142e-e8a6-403b-b74d-8df3cd80cb9a",
     "name": "DBN-6300 Overview - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_DBN-6300_V1R2_Overview.zip",
     "size": "409.24 KB",
@@ -343,6 +392,7 @@
     "release": 2
   },
   {
+    "id": "56d4cf65-435d-49ee-b91d-00647836a70d",
     "name": "DNS SRG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Domain_Name_System_V2R4_SRG.zip",
     "size": "601.26 KB",
@@ -350,6 +400,7 @@
     "release": 4
   },
   {
+    "id": "4c322fbf-c249-4a8e-bb27-9869144a654c",
     "name": "Docker Enterprise 2.x Linux/Unix - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Docker_Enterprise_2-x_Linux-UNIX_V2R1_STIG.zip",
     "size": "1.02 MB",
@@ -357,6 +408,7 @@
     "release": 1
   },
   {
+    "id": "b2bcdf10-c3f4-43d8-876d-3012166bdcb1",
     "name": "Docker Enterprise 2.x Linux/Unix STIG for Ansible - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Docker_Enterprise_2-x_Linux_Unix_V1R1_STIG_Ansible.zip",
     "size": "489.84 KB",
@@ -364,6 +416,7 @@
     "release": 1
   },
   {
+    "id": "d85db01b-3f00-4798-a85e-953fa3558da0",
     "name": "EDB Postgres Advanced Server STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_EDB_PGS_Advanced_Server_V2R1_STIG.zip",
     "size": "1.41 MB",
@@ -371,6 +424,7 @@
     "release": 1
   },
   {
+    "id": "933e15a1-babe-4289-8c16-e55d841ee956",
     "name": "EDB Postgres Advanced Server v11 for Windows STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_EDB_PGS_Advanced_Server_v11_Windows_V2R1_STIG.zip",
     "size": "1 MB",
@@ -378,6 +432,7 @@
     "release": 1
   },
   {
+    "id": "37041d14-4e0a-450d-8593-485ddb45eccf",
     "name": "Esri ArcGIS Server 10.3 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ArcGIS_Server_10-3_V1R3_STIG.zip",
     "size": "399.4 KB",
@@ -385,6 +440,7 @@
     "release": 3
   },
   {
+    "id": "274d3c8b-cd79-4b89-82cc-0c3d7e9260f5",
     "name": "Firewall SRG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Firewall_V2R2_SRG.zip",
     "size": "711.52 KB",
@@ -392,6 +448,7 @@
     "release": 2
   },
   {
+    "id": "093b6cf2-f753-4d84-9d0c-a6de6770c5b5",
     "name": "ForeScout CounterACT ALG STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ForeScout_CounterACT_ALG_V1R2_STIG.zip",
     "size": "438.53 KB",
@@ -399,6 +456,7 @@
     "release": 2
   },
   {
+    "id": "e4806997-82d5-446a-ac85-d804b83e69f6",
     "name": "ForeScout CounterACT NDM STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ForeScout_CounterACT_NDM_V1R1_STIG.zip",
     "size": "355.31 KB",
@@ -406,6 +464,7 @@
     "release": 1
   },
   {
+    "id": "d57d556b-530b-4590-bde7-9fd7904a3188",
     "name": "ForeScout CounterACT Ver 1 Overview",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ForeScout_CounterACT_V1R1_Overview.zip",
     "size": "134.09 KB",
@@ -413,6 +472,7 @@
     "release": 1
   },
   {
+    "id": "e271bd59-8bc0-46fb-a825-1556cb6989d5",
     "name": "General Purpose Operating System SRG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_GPOS_V2R3_SRG.zip",
     "size": "755.59 KB",
@@ -420,6 +480,7 @@
     "release": 3
   },
   {
+    "id": "bf1b7625-bf93-4ce4-b790-24f7924d79bd",
     "name": "Google Android 10.x STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Google_Android_10-x_V1R2_STIG.zip",
     "size": "1.64 MB",
@@ -427,6 +488,7 @@
     "release": 2
   },
   {
+    "id": "f9102bed-a1b7-4ec7-a91e-88e9f3a382b9",
     "name": "Google Android 9.x STIG - Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Google_Android_9-x_V1R1_STIG.zip",
     "size": "3.86 MB",
@@ -434,6 +496,7 @@
     "release": 1
   },
   {
+    "id": "5ff65a51-f663-4895-be68-f4367a98c88a",
     "name": "Google Chrome STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Google_Chrome_V2R6_STIG.zip",
     "size": "829.98 KB",
@@ -441,6 +504,7 @@
     "release": 6
   },
   {
+    "id": "0f4bcff9-e183-4f7c-8821-9ae4fef296b6",
     "name": "Google Chrome STIG Benchmark - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Google_Chrome_V2R6_STIG_SCAP_1-2_Benchmark.zip",
     "size": "24.99 KB",
@@ -448,6 +512,7 @@
     "release": 6
   },
   {
+    "id": "ee82cb41-a89e-451e-984f-9348fd4ffcdf",
     "name": "HPE 3PAR StoreServ 3.2.x STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HPE_3PAR_StoreServ_3-2-x_V2R1_STIG.zip",
     "size": "745.74 KB",
@@ -455,6 +520,7 @@
     "release": 1
   },
   {
+    "id": "a45d34d1-a13f-4607-bcc8-6cdfe80e0802",
     "name": "HPE Nimble Storage Array STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HPE_Nimble_Storage_Array_STIG_V1R1_STIG.zip",
     "size": "1.49 MB",
@@ -462,6 +528,7 @@
     "release": 1
   },
   {
+    "id": "8472c005-09a6-4264-8deb-05f889d0c05d",
     "name": "HYCU for Nutanix STIG - Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HYCU_for_Nutanix_V1R1_STIG.zip",
     "size": "1.33 MB",
@@ -469,6 +536,7 @@
     "release": 1
   },
   {
+    "id": "2c76488f-62a6-4c30-8a7c-b760a36b28a9",
     "name": "IBM AIX 7.x STIG - Ver 2, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_AIX_7-x_V2R5_STIG.zip",
     "size": "1.52 MB",
@@ -476,6 +544,7 @@
     "release": 5
   },
   {
+    "id": "2dade457-a498-4337-bcbc-9b25393db81c",
     "name": "IBM Aspera Platform 4.2 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_Aspera_Platform_4-2_V1R1_STIG.zip",
     "size": "857.94 KB",
@@ -483,6 +552,7 @@
     "release": 1
   },
   {
+    "id": "8d47c59a-9112-448a-956b-279214ea096a",
     "name": "IBM DataPower NDM STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_DataPower_NDM_V1R2_STIG.zip",
     "size": "452.3 KB",
@@ -490,6 +560,7 @@
     "release": 2
   },
   {
+    "id": "cac80572-90c9-4638-8dd6-afa81a500730",
     "name": "IBM DataPower STIG ALG STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_DataPower_ALG_V1R1_STIG.zip",
     "size": "288.27 KB",
@@ -497,6 +568,7 @@
     "release": 1
   },
   {
+    "id": "83277e85-c919-452c-8c41-49ff69eb26e2",
     "name": "IBM DataPower STIG Overview, Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_DataPower_V1R1_Overview.zip",
     "size": "84.73 KB",
@@ -504,6 +576,7 @@
     "release": 1
   },
   {
+    "id": "b6ec8280-05dc-4d41-9bd0-e4cf324f810d",
     "name": "IBM DB2 V10.5 STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_DB2_V10-5_V1R4_STIG.zip",
     "size": "825.06 KB",
@@ -511,6 +584,7 @@
     "release": 4
   },
   {
+    "id": "164b53fe-aa47-439c-8106-c003c2c18bf1",
     "name": "IBM Hardware Management Console (HMC) STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_HMC_V1R5_STIG.zip",
     "size": "706.74 KB",
@@ -518,6 +592,7 @@
     "release": 5
   },
   {
+    "id": "ed9e1dd4-2cd5-4331-ae1d-26175cf81118",
     "name": "IBM MaaS360 with Watson v10-x MDM STIG - Ver1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_MaaS360_with_Watson_v10-x_MDM_V1R2_STIG.zip",
     "size": "969.3 KB",
@@ -525,6 +600,7 @@
     "release": 2
   },
   {
+    "id": "0f4b9acc-306a-4622-8d6d-dc3ca5b254dd",
     "name": "IBM MQ Appliance v9-0 AS STIG V1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_MQ_Appliance_v9-0_AS_V1R1_STIG.zip",
     "size": "342.73 KB",
@@ -532,6 +608,7 @@
     "release": 1
   },
   {
+    "id": "a497691b-14d0-4500-86ce-d656b10c6ff3",
     "name": "IBM MQ Appliance v9-0 NDM STIG V1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_MQ_Appliance_v9-0_NDM_V1R1_STIG.zip",
     "size": "322.58 KB",
@@ -539,6 +616,7 @@
     "release": 1
   },
   {
+    "id": "2caa3f53-0baf-4be5-a833-34cbf83eb122",
     "name": "IBM MQ Appliance v9-0 STIG Overview",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_MQ_Appliance_v9-0_V1R1_Overview.zip",
     "size": "216.17 KB",
@@ -546,6 +624,7 @@
     "release": 1
   },
   {
+    "id": "d4eb6084-e6f5-4063-aa0b-0544262713d8",
     "name": "IBM WebSphere Liberty Server STIG - Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_WebSphere_Liberty_Server_V1R1_STIG.zip",
     "size": "1.43 MB",
@@ -553,6 +632,7 @@
     "release": 1
   },
   {
+    "id": "8c2eba21-858c-4873-9213-7ca02e9d0da7",
     "name": "IBM WebSphere Traditional V9.x STIG Version 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_WebSphere_Traditional_V9-x_V1R1_STIG.zip",
     "size": "464.6 KB",
@@ -560,6 +640,7 @@
     "release": 1
   },
   {
+    "id": "5a573ef4-324a-446e-8f37-5890429fc730",
     "name": "IBM zVM using CA VMSecure STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_zVM_Using_CA_VMSecure_V2R1_STIG.zip",
     "size": "752.51 KB",
@@ -567,6 +648,7 @@
     "release": 1
   },
   {
+    "id": "e51295c7-18aa-4633-b955-af9f1d17bb83",
     "name": "Infoblox 7.x DNS STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Infoblox_7-x_DNS_V2R1_STIG.zip",
     "size": "981.51 KB",
@@ -574,6 +656,7 @@
     "release": 1
   },
   {
+    "id": "ce70f738-1939-446e-8b83-18ec0ef87943",
     "name": "Infoblox 8.x DNS STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IB_8-x_DNS_V1R1_STIG.zip",
     "size": "1.66 MB",
@@ -581,6 +664,7 @@
     "release": 1
   },
   {
+    "id": "02d451d4-a49d-4740-b738-8d359ebc8640",
     "name": "Intrusion Detection and Prevention System SRG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IDPS_V2R6_SRG.zip",
     "size": "850.55 KB",
@@ -588,6 +672,7 @@
     "release": 6
   },
   {
+    "id": "cca30b39-3c2d-4451-a2eb-efcff66056c3",
     "name": "ISEC7 EMM Suite v6.x STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ISEC_EMM_Suite_v6-x_V1R1_STIG.zip",
     "size": "1.67 MB",
@@ -595,6 +680,7 @@
     "release": 1
   },
   {
+    "id": "5ec50494-5e6f-4540-97f7-822b2a1f3b97",
     "name": "ISEC7 Sphere STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ISEC7_Sphere_V2R1_STIG.zip",
     "size": "2.16 MB",
@@ -602,6 +688,7 @@
     "release": 1
   },
   {
+    "id": "43b62d1e-f38c-4820-901c-ba5cbe90fd42",
     "name": "Ivanti MobileIron Core MDM Server STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Ivanti_MI_Core_MDM_Server_V1R1_STIG.zip",
     "size": "1.82 MB",
@@ -609,6 +696,7 @@
     "release": 1
   },
   {
+    "id": "2a4148d6-e800-4861-afaf-e45ecf2c56ef",
     "name": "Jamf Pro v10.x EMM STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Jamf_Pro_v10-x_EMM_V1R1_STIG.zip",
     "size": "1.69 MB",
@@ -616,6 +704,7 @@
     "release": 1
   },
   {
+    "id": "f92db4a4-87b1-4416-8f04-dbca08d49685",
     "name": "Juniper SRX SG STIG for Ansible - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Juniper_SRX_SG_V1R1_STIG_Ansible.zip",
     "size": "368.27 KB",
@@ -623,6 +712,7 @@
     "release": 1
   },
   {
+    "id": "a3245695-d31a-4611-b8ab-c9aa068173e2",
     "name": "Kubernetes STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Kubernetes_V1R5_STIG.zip",
     "size": "2.41 MB",
@@ -630,6 +720,7 @@
     "release": 5
   },
   {
+    "id": "ab29da3f-5e3b-4f55-8266-354886a36ee5",
     "name": "Layer 2 Switch SRG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Layer_2_Switch_V2R1_SRG.zip",
     "size": "679.55 KB",
@@ -637,6 +728,7 @@
     "release": 1
   },
   {
+    "id": "62d94303-07ca-4549-8554-a198f50a1498",
     "name": "Mainframe Product SRG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Mainframe_Product_V1R4_SRG.zip",
     "size": "994.67 KB",
@@ -644,6 +736,7 @@
     "release": 4
   },
   {
+    "id": "7b22524c-e502-48aa-bb71-5870b4c2f885",
     "name": "MarkLogic Server v9 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MarkLogic_Server_v9_V1R1_STIG.zip",
     "size": "957.55 KB",
@@ -651,6 +744,7 @@
     "release": 1
   },
   {
+    "id": "c0e6e206-b156-490f-894d-6c70cd681c79",
     "name": "McAfee Application Control 8.x STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_Application_Control_8-x_V2R1_STIG.zip",
     "size": "910.13 KB",
@@ -658,6 +752,7 @@
     "release": 1
   },
   {
+    "id": "0cdb0b4a-88f4-4162-90a1-6e31b8a062cf",
     "name": "McAfee Application Control STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_Application_Control_7-x_V1R3_STIG.zip",
     "size": "380.54 KB",
@@ -665,6 +760,7 @@
     "release": 3
   },
   {
+    "id": "1f241faa-90a0-4bf3-9731-f95ea5a4083f",
     "name": "McAfee Virus Scan 8.8 Overview - Ver 5, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_VirusScan88_V5R7_Overview.zip",
     "size": "450.86 KB",
@@ -672,6 +768,7 @@
     "release": 7
   },
   {
+    "id": "c6cf889a-4a92-4d8b-b2a5-f6b151744b8a",
     "name": "McAfee Virus Scan Enterprise for Linux 1.9x/2.0x Managed Client STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_VSEL_1-9_2-0_Managed_Client_V1R3_STIG.zip",
     "size": "449.32 KB",
@@ -679,6 +776,7 @@
     "release": 3
   },
   {
+    "id": "5246025d-4770-4e53-9a9d-a08c3e4e68d3",
     "name": "Microsoft .Net Framework 4 STIG Benchmark - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_DotNet_Framework_4-0_V2R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "8.44 KB",
@@ -686,6 +784,7 @@
     "release": 1
   },
   {
+    "id": "a3c71404-d514-4bf0-a12b-8b6f77eb105c",
     "name": "Microsoft .Net Framework 4.0 STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_DotNet_Framework_4-0_V2R1_STIG.zip",
     "size": "769.28 KB",
@@ -693,6 +792,7 @@
     "release": 1
   },
   {
+    "id": "dc01a43f-efb1-4aa6-9bd6-1b5e700862f2",
     "name": "Microsoft Access 2010 STIG - Ver 1, Rel 10",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Access_2010_V1R10_STIG.zip",
     "size": "451.37 KB",
@@ -700,6 +800,7 @@
     "release": 10
   },
   {
+    "id": "cf5c19ed-acbe-4a9d-86f1-64d76b6171b2",
     "name": "Microsoft Access 2013 STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Access_2013_V1R6_STIG.zip",
     "size": "436.33 KB",
@@ -707,6 +808,7 @@
     "release": 6
   },
   {
+    "id": "63771ac9-5af3-49a3-97e8-c35bd7b2ae25",
     "name": "Microsoft Access 2016 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_Access_2016_V1R1_STIG.zip",
     "size": "356.81 KB",
@@ -714,6 +816,7 @@
     "release": 1
   },
   {
+    "id": "888d69ef-10be-44c0-8be3-ca88aebb136a",
     "name": "Microsoft Defender Antivirus STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Defender_Antivirus_V2R4_STIG.zip",
     "size": "733.35 KB",
@@ -721,6 +824,7 @@
     "release": 4
   },
   {
+    "id": "0099ed5f-7e9d-4886-9c51-f57b259cebda",
     "name": "Microsoft Defender Antivirus STIG Benchmark - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Defender_Antivirus_V2R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "23.2 KB",
@@ -728,6 +832,7 @@
     "release": 3
   },
   {
+    "id": "e0e5c459-a0e7-4981-9a04-67a92ab2f2bd",
     "name": "Microsoft Edge STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Edge_V1R4_STIG.zip",
     "size": "1.56 MB",
@@ -735,6 +840,7 @@
     "release": 4
   },
   {
+    "id": "08ad29f0-f1cd-4a45-9a4f-d4a6b14b677a",
     "name": "Microsoft Edge STIG Benchmark - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Edge_V1R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "24.23 KB",
@@ -742,6 +848,7 @@
     "release": 1
   },
   {
+    "id": "b78021da-57db-4163-9c68-3ad6087f65fd",
     "name": "Microsoft Excel 2010 STIG - Ver 1, Rel 11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Excel_2010_V1R11_STIG.zip",
     "size": "443.24 KB",
@@ -749,6 +856,7 @@
     "release": 11
   },
   {
+    "id": "fc62a73c-3568-499b-b2fb-5f20ece815f1",
     "name": "Microsoft Excel 2013 STIG - Ver 1, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Excel_2013_V1R7_STIG.zip",
     "size": "440.15 KB",
@@ -756,6 +864,7 @@
     "release": 7
   },
   {
+    "id": "e48f37c4-4198-40a2-bd65-5ad1122e41bc",
     "name": "Microsoft Excel 2016 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Excel_2016_V1R2_STIG.zip",
     "size": "406.81 KB",
@@ -763,6 +872,7 @@
     "release": 2
   },
   {
+    "id": "fd864ca1-9a7b-4f5b-884f-37f4aa4f5617",
     "name": "Microsoft Exchange 2010 Client Access STIG - Ver 1, Rel 9",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Exchange_2010_Client_Access_V1R9_STIG.zip",
     "size": "682.87 KB",
@@ -770,6 +880,7 @@
     "release": 9
   },
   {
+    "id": "2c8a7808-a600-4ba5-9b5e-61a6f5b41664",
     "name": "Microsoft Exchange 2010 Edge STIG - Ver 1, Rel 14",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Exchange_2010_Edge_V1R14_STIG.zip",
     "size": "644.07 KB",
@@ -777,6 +888,7 @@
     "release": 14
   },
   {
+    "id": "e9e831df-2e5b-4cfe-84ea-9e4ef510314f",
     "name": "Microsoft Exchange 2010 Edge Transport Server STIG - Ver 1, Rel 15",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Exchange_2010_Edge_V1R15_STIG.zip",
     "size": "642.96 KB",
@@ -784,6 +896,7 @@
     "release": 15
   },
   {
+    "id": "28408cdb-6162-41c2-8bec-057e45519b60",
     "name": "Microsoft Exchange 2010 Hub STIG - Ver 1, Rel 12",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Exchange_2010_Hub_V1R12_STIG.zip",
     "size": "689.63 KB",
@@ -791,6 +904,7 @@
     "release": 12
   },
   {
+    "id": "dc092db3-120b-4138-8da8-d4b78c4a6399",
     "name": "Microsoft Exchange 2010 Mailbox STIG - Ver 1, Rel 10",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Exchange_2010_Mailbox_V1R10_STIG.zip",
     "size": "445.45 KB",
@@ -798,6 +912,7 @@
     "release": 10
   },
   {
+    "id": "da7c080c-e02a-4fe6-bd87-3f978c44caa7",
     "name": "Microsoft Exchange 2010 Overview - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Exchange_2010_V1R6_Overview.zip",
     "size": "985.59 KB",
@@ -805,6 +920,7 @@
     "release": 6
   },
   {
+    "id": "2537f73b-74d5-4929-8566-4f7f0fa8bfc8",
     "name": "Microsoft Groove 2013 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Groove_2013_V1R3_STIG.zip",
     "size": "439.24 KB",
@@ -812,6 +928,7 @@
     "release": 3
   },
   {
+    "id": "90c5de99-d77e-4b53-84ff-cfde93c66a08",
     "name": "Microsoft InfoPath 2010 STIG - Ver 1, Rel 11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_InfoPath_2010_V1R11_STIG.zip",
     "size": "460.93 KB",
@@ -819,6 +936,7 @@
     "release": 11
   },
   {
+    "id": "60fcf1a2-ceb2-49da-b805-0541e5c85e87",
     "name": "Microsoft InfoPath 2013 STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_InfoPath_2013_V1R5_STIG.zip",
     "size": "431.7 KB",
@@ -826,6 +944,7 @@
     "release": 5
   },
   {
+    "id": "c6fbb83a-7816-471d-9708-93664abb63c8",
     "name": "Microsoft Internet Explorer 11 STIG - Version 2, Release 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_IE11_V2R1_STIG.zip",
     "size": "738.29 KB",
@@ -833,6 +952,7 @@
     "release": 1
   },
   {
+    "id": "ab9a5e93-1e56-4de8-9b24-6dbe870009cd",
     "name": "Microsoft Lync 2013 STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Lync_2013_V1R4_STIG.zip",
     "size": "439.13 KB",
@@ -840,6 +960,7 @@
     "release": 4
   },
   {
+    "id": "7ada07f4-1494-42d7-b615-bc7d1a8e024a",
     "name": "Microsoft Office 2010 Overview - Ver 1, Rel 12",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MicrosoftOffice2010_V1R12_Overview.zip",
     "size": "159.11 KB",
@@ -847,6 +968,7 @@
     "release": 12
   },
   {
+    "id": "4678a680-8b84-452e-a4fc-007c3545f3e1",
     "name": "Microsoft Office 2013 Overview - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MicrosoftOffice2013_V1R5_Overview.zip",
     "size": "531.32 KB",
@@ -854,6 +976,7 @@
     "release": 5
   },
   {
+    "id": "7e2926f4-f54c-42eb-a0d8-3fa371e531ad",
     "name": "Microsoft Office 365 ProPlus STIG - Ver 2, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Office_365_ProPlus_V2R5_STIG.zip",
     "size": "776.6 KB",
@@ -861,6 +984,7 @@
     "release": 5
   },
   {
+    "id": "51e1d25c-e698-4c9b-92f7-2702632b4401",
     "name": "Microsoft Office System 2010 STIG - Ver 1, Rel 12",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_OfficeSystem_2010_V1R12_STIG.zip",
     "size": "445.38 KB",
@@ -868,6 +992,7 @@
     "release": 12
   },
   {
+    "id": "4d92536a-fc73-4151-9d22-124e23f3ecab",
     "name": "Microsoft Office System 2013 STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_OfficeSystem_2013_V2R1_STIG.zip",
     "size": "885.34 KB",
@@ -875,6 +1000,7 @@
     "release": 1
   },
   {
+    "id": "464d3f4d-6e8c-495a-a7b0-9cf9ba33fd57",
     "name": "Microsoft Office System 2016 STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Office_System_2016_V2R2_STIG.zip",
     "size": "715.87 KB",
@@ -882,6 +1008,7 @@
     "release": 2
   },
   {
+    "id": "8210cd37-2396-4894-96ab-fa85dc271c32",
     "name": "Microsoft OneDrive for Business 2016 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_OneDrive_Business_2016_V1R3_STIG.zip",
     "size": "594.98 KB",
@@ -889,6 +1016,7 @@
     "release": 3
   },
   {
+    "id": "6a33375b-ca32-4241-8966-5591a92d78dc",
     "name": "Microsoft OneDrive STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_OneDrive_V2R2_STIG.zip",
     "size": "667.58 KB",
@@ -896,6 +1024,7 @@
     "release": 2
   },
   {
+    "id": "ec129fd5-5219-40db-8f59-11809a4d5668",
     "name": "Microsoft OneNote 2010 STIG - Ver 1, Rel 9",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_OneNote_2010_V1R9_STIG.zip",
     "size": "435.61 KB",
@@ -903,6 +1032,7 @@
     "release": 9
   },
   {
+    "id": "54a81cab-381d-469b-adb0-eabb2ccae5f3",
     "name": "Microsoft OneNote 2013 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_OneNote_2013_V1R3_STIG.zip",
     "size": "426.92 KB",
@@ -910,6 +1040,7 @@
     "release": 3
   },
   {
+    "id": "5c0e829d-df13-49ba-8b5f-88ae4475a506",
     "name": "Microsoft OneNote 2016 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_OneNote_2016_V1R2_STIG.zip",
     "size": "339.07 KB",
@@ -917,6 +1048,7 @@
     "release": 2
   },
   {
+    "id": "2c897442-a65d-4d97-860a-0be8a6c49bf8",
     "name": "Microsoft Outlook 2010 STIG - Ver 1, Rel 13",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Outlook_2010_V1R13_STIG.zip",
     "size": "458.93 KB",
@@ -924,6 +1056,7 @@
     "release": 13
   },
   {
+    "id": "e36ffa1b-064f-45f3-be9e-68d0d7991e24",
     "name": "Microsoft Outlook 2013 STIG - Ver 1, Rel 13",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Outlook_2013_V1R13_STIG.zip",
     "size": "423.68 KB",
@@ -931,6 +1064,7 @@
     "release": 13
   },
   {
+    "id": "1a82fa85-6a01-47cc-9ab8-b265b14990e3",
     "name": "Microsoft Outlook 2016 STIG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Outlook_2016_V2R3_STIG.zip",
     "size": "660.23 KB",
@@ -938,6 +1072,7 @@
     "release": 3
   },
   {
+    "id": "73cfeff4-4f12-41da-87f2-2a3a0bbd0500",
     "name": "Microsoft PowerPoint 2010 STIG - Ver 1, Rel 10",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_PowerPoint_2010_V1R10_STIG.zip",
     "size": "414.21 KB",
@@ -945,6 +1080,7 @@
     "release": 10
   },
   {
+    "id": "4813b4c6-02ed-45b9-aa1d-1c277e3f68ef",
     "name": "Microsoft PowerPoint 2013 STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_PowerPoint_2013_V1R6_STIG.zip",
     "size": "440.97 KB",
@@ -952,6 +1088,7 @@
     "release": 6
   },
   {
+    "id": "5f613af4-5de6-4200-ad16-1a87b867db8e",
     "name": "Microsoft PowerPoint 2016 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_PowerPoint_2016_V1R1_STIG.zip",
     "size": "363.05 KB",
@@ -959,6 +1096,7 @@
     "release": 1
   },
   {
+    "id": "e89c94b8-a5d9-4ec5-9504-9d306797f50a",
     "name": "Microsoft Project 2010 STIG - Ver 1, Rel 9",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Project_2010_V1R9_STIG.zip",
     "size": "435.29 KB",
@@ -966,6 +1104,7 @@
     "release": 9
   },
   {
+    "id": "ab5c2428-ecc5-4b3a-881a-b16b8353e4ef",
     "name": "Microsoft Project 2013 STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Project_2013_V1R4_STIG.zip",
     "size": "428.58 KB",
@@ -973,6 +1112,7 @@
     "release": 4
   },
   {
+    "id": "c522182e-16dc-4027-b055-558d792a7921",
     "name": "Microsoft Project 2016 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_Project_2016_V1R1_STIG.zip",
     "size": "356.08 KB",
@@ -980,6 +1120,7 @@
     "release": 1
   },
   {
+    "id": "fdb6cd9f-75ac-470b-ba34-f62213994c6e",
     "name": "Microsoft Publisher 2010 STIG - Ver 1, Rel 11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Publisher_2010_V1R11_STIG.zip",
     "size": "409.49 KB",
@@ -987,6 +1128,7 @@
     "release": 11
   },
   {
+    "id": "4438c97e-0454-4512-a6da-508aa2d9a9b9",
     "name": "Microsoft Publisher 2013 STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Publisher_2013_V1R5_STIG.zip",
     "size": "429.2 KB",
@@ -994,6 +1136,7 @@
     "release": 5
   },
   {
+    "id": "50bc0b86-7943-4468-b6ed-43747fe97ad0",
     "name": "Microsoft Publisher 2016 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Publisher_2016_V1R3_STIG.zip",
     "size": "379.19 KB",
@@ -1001,6 +1144,7 @@
     "release": 3
   },
   {
+    "id": "7a6f3365-2329-4507-9c80-a2e12c971807",
     "name": "Microsoft SCOM STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_SCOM_V1R1_STIG.zip",
     "size": "1.5 MB",
@@ -1008,6 +1152,7 @@
     "release": 1
   },
   {
+    "id": "f9ae3ebf-cba2-4c8e-9139-b946b9595374",
     "name": "Microsoft SharePoint 2013 STIG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_SharePoint_2013_V2R3_STIG.zip",
     "size": "692.2 KB",
@@ -1015,6 +1160,7 @@
     "release": 3
   },
   {
+    "id": "0d2eb16e-7207-4b31-af9d-cd266b07966b",
     "name": "Microsoft Sharepoint Designer 2013 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_SharePointDesigner_2013_V1R3_STIG.zip",
     "size": "442.79 KB",
@@ -1022,6 +1168,7 @@
     "release": 3
   },
   {
+    "id": "00ef6245-96ed-4e79-8868-ab284a4e97ec",
     "name": "Microsoft Skype for Business 2016 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_Skype_for_Business_2016_V1R1_STIG.zip",
     "size": "352.2 KB",
@@ -1029,6 +1176,7 @@
     "release": 1
   },
   {
+    "id": "f4e7986e-6876-4d2f-923f-4f4c89ec06aa",
     "name": "Microsoft Visio 2013 STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Visio_2013_V1R4_STIG.zip",
     "size": "427.91 KB",
@@ -1036,6 +1184,7 @@
     "release": 4
   },
   {
+    "id": "57f2b976-f363-4b7c-ac2d-3170c3ce882c",
     "name": "Microsoft Visio 2016 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_Visio_2016_V1R1_STIG.zip",
     "size": "355.78 KB",
@@ -1043,6 +1192,7 @@
     "release": 1
   },
   {
+    "id": "ea2124d2-59c9-4cac-93cb-efa5f325a1f6",
     "name": "Microsoft Windows 10 STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_10_V2R4_STIG.zip",
     "size": "930.68 KB",
@@ -1050,6 +1200,7 @@
     "release": 4
   },
   {
+    "id": "fdfa3b83-fe8f-4d26-a188-842ada6b1b68",
     "name": "Microsoft Windows 10 STIG Benchmark - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_10_V2R4_STIG_SCAP_1-2_Benchmark.zip",
     "size": "97.24 KB",
@@ -1057,6 +1208,7 @@
     "release": 4
   },
   {
+    "id": "dd73f694-934e-4617-84c6-53d03fdfd725",
     "name": "Microsoft Windows 2012 and 2012 R2 DC STIG- Ver 3, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2012_and_2012_R2_DC_V3R4_STIG.zip",
     "size": "901.19 KB",
@@ -1064,6 +1216,7 @@
     "release": 4
   },
   {
+    "id": "daceb663-e6a5-4a29-9856-2ac32c16fe89",
     "name": "Microsoft Windows 2012 and 2012 R2 MS STIG - Ver 3, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2012_and_2012_R2_MS_V3R4_STIG.zip",
     "size": "850.72 KB",
@@ -1071,6 +1224,7 @@
     "release": 4
   },
   {
+    "id": "522437ca-6e53-4898-af07-a36e5c212cfa",
     "name": "Microsoft Windows 2012 Server Domain Name System STIG - Ver 2, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2012_Server_DNS_V2R5_STIG.zip",
     "size": "770.26 KB",
@@ -1078,6 +1232,7 @@
     "release": 5
   },
   {
+    "id": "63e62276-0b4b-48ab-9b66-3f7f84254cd7",
     "name": "Microsoft Windows Firewall STIG and Advanced Security STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Firewall_V2R1_STIG.zip",
     "size": "716.43 KB",
@@ -1085,6 +1240,7 @@
     "release": 1
   },
   {
+    "id": "f080f98f-888f-4fd8-a0b3-f445ee49ac17",
     "name": "Microsoft Windows Firewall STIG Benchmark - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Firewall_V2R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "13.53 KB",
@@ -1092,6 +1248,7 @@
     "release": 1
   },
   {
+    "id": "9914d931-269d-4942-8e75-040e67499577",
     "name": "Microsoft Windows Operating Systems Overview - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_Operating_Systems_V1R5_Overview.zip",
     "size": "349.97 KB",
@@ -1099,6 +1256,7 @@
     "release": 5
   },
   {
+    "id": "a153ab50-268c-4949-bbff-b1450e005054",
     "name": "Microsoft Windows Privileged Access Workstation (PAW) STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_PAW_V2R2_STIG.zip",
     "size": "731.43 KB",
@@ -1106,6 +1264,7 @@
     "release": 2
   },
   {
+    "id": "f685141e-b5c8-4378-a23b-bf80105e4cb4",
     "name": "Microsoft Windows Server 2012 and 2012 R2 DC STIG Benchmark - Ver 3, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2012_and_2012_R2_DC_V3R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "123.38 KB",
@@ -1113,6 +1272,7 @@
     "release": 3
   },
   {
+    "id": "72f0adb7-3227-4f05-933a-010c20e22c6b",
     "name": "Microsoft Windows Server 2012 and 2012 R2 MS STIG Benchmark - Ver 3, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2012_and_2012_R2_MS_V3R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "118.08 KB",
@@ -1120,6 +1280,7 @@
     "release": 3
   },
   {
+    "id": "f33702d4-567a-463c-a639-684870d73df2",
     "name": "Microsoft Windows Server 2016 STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V2R4_STIG.zip",
     "size": "823.99 KB",
@@ -1127,6 +1288,7 @@
     "release": 4
   },
   {
+    "id": "8e101d9c-c66d-4a86-bdb4-8b9219a35a99",
     "name": "Microsoft Windows Server 2016 STIG Benchmark - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V2R2_STIG_SCAP_1-2_Benchmark.zip",
     "size": "91.53 KB",
@@ -1134,6 +1296,7 @@
     "release": 2
   },
   {
+    "id": "9f2cc329-14cf-4aa8-9050-99b6cce1ce9f",
     "name": "Microsoft Windows Server 2016 STIG for Chef - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V1R3_STIG_Chef.zip",
     "size": "688.81 KB",
@@ -1141,6 +1304,7 @@
     "release": 3
   },
   {
+    "id": "95fbbaa5-0ee6-4880-b9d6-0d8f70f625cd",
     "name": "Microsoft Windows Server 2016 STIG for PowerShell DSC - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2016_V1R3_STIG_PowerShell_DSC.zip",
     "size": "617.57 KB",
@@ -1148,6 +1312,7 @@
     "release": 3
   },
   {
+    "id": "76afdc98-19c1-4d85-8062-add38e837a57",
     "name": "Microsoft Windows Server 2019 STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2019_V2R4_STIG.zip",
     "size": "741.11 KB",
@@ -1155,6 +1320,7 @@
     "release": 4
   },
   {
+    "id": "d43f3e7d-80bf-4b46-ba97-efba146aecd7",
     "name": "Microsoft Windows Server 2019 STIG Benchmark - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2019_V2R2_STIG_SCAP_1-2_Benchmark.zip",
     "size": "98.74 KB",
@@ -1162,6 +1328,7 @@
     "release": 2
   },
   {
+    "id": "ee07cf8a-676e-41fc-932c-3cea243a17a8",
     "name": "Microsoft Windows Server 2019 STIG for Chef - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_Server_2019_V1R2_STIG_Chef.zip",
     "size": "717.29 KB",
@@ -1169,6 +1336,7 @@
     "release": 2
   },
   {
+    "id": "3f4ee004-13c6-46b3-afff-b54424a0e3c8",
     "name": "Microsoft Word 2010 STIG - Ver 1, Rel 11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Word_2010_V1R11_STIG.zip",
     "size": "662.17 KB",
@@ -1176,6 +1344,7 @@
     "release": 11
   },
   {
+    "id": "6e889457-f316-4e30-9b86-91a91b5752fa",
     "name": "Microsoft Word 2013 STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Word_2013_V1R6_STIG.zip",
     "size": "462.31 KB",
@@ -1183,6 +1352,7 @@
     "release": 6
   },
   {
+    "id": "df88c9f8-1602-4b9a-b825-52a5a6d50ec6",
     "name": "Microsoft Word 2016 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_Word_2016_V1R1_STIG.zip",
     "size": "361.84 KB",
@@ -1190,6 +1360,7 @@
     "release": 1
   },
   {
+    "id": "a8b44dd1-2d81-4a18-bba8-6a3cff7171ff",
     "name": "MobileIron Core v10.x MDM STIG Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MobileIron_Core_v10-x_MDM_V1R1_STIG.zip",
     "size": "1 MB",
@@ -1197,6 +1368,7 @@
     "release": 1
   },
   {
+    "id": "91b7369d-d63c-4c2c-90e2-6dd2877cba2d",
     "name": "MongoDB Enterprise Advanced 3.x STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MDB_Enterprise_Advanced_3-x_V2R1_STIG.zip",
     "size": "609.61 KB",
@@ -1204,6 +1376,7 @@
     "release": 1
   },
   {
+    "id": "123a7a51-7db3-4ea7-881e-3f0d42a0c886",
     "name": "MongoDB Enterprise Advanced 4.x STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MDB_Enterprise_Advanced_4-x_V1R1_STIG.zip",
     "size": "1.58 MB",
@@ -1211,6 +1384,7 @@
     "release": 1
   },
   {
+    "id": "7ca0857c-31e1-4f9d-bf8f-525e5eb7b84b",
     "name": "Motorola Solutions Android 11 - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MOT_Solutions_Android_11_V1R1_STIG.zip",
     "size": "1.51 MB",
@@ -1218,6 +1392,7 @@
     "release": 1
   },
   {
+    "id": "f67cc256-b5e0-41f3-8996-eb8cb7403fd2",
     "name": "Mozilla Firefox for Linux STIG Benchmark - Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MOZ_Firefox_Linux_V6R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "17.75 KB",
@@ -1225,6 +1400,7 @@
     "release": 1
   },
   {
+    "id": "087b53b3-c4cf-4ad3-86f3-29118fbf20fe",
     "name": "Mozilla Firefox for Windows STIG Benchmark - Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MOZ_Firefox_Windows_V6R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "14.91 KB",
@@ -1232,6 +1408,7 @@
     "release": 1
   },
   {
+    "id": "6565ab87-7058-4295-9370-fd69ed03c9e1",
     "name": "Mozilla Firefox STIG - Ver 6, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MOZ_Firefox_V6R2_STIG.zip",
     "size": "883.37 KB",
@@ -1239,6 +1416,7 @@
     "release": 2
   },
   {
+    "id": "613b6e4b-d8bb-48d1-a83e-664d51bde904",
     "name": "MS Internet Explorer 11 STIG Benchmark - Version 2, Release 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_IE11_V2R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "63.28 KB",
@@ -1246,6 +1424,7 @@
     "release": 1
   },
   {
+    "id": "482d3e6a-7912-440f-8803-ba9b1e41440d",
     "name": "Multifunction Device and Network Printers STIG - Ver 2, Rel 14",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Multifunction_Device_and_Network_Printers_V2R14_STIG.zip",
     "size": "596.06 KB",
@@ -1253,6 +1432,7 @@
     "release": 14
   },
   {
+    "id": "bd1e5ae5-e516-4edb-a753-a84f5ddd9550",
     "name": "NetApp ONTAP DSC 9.x STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_NetApp_ONTAP_DSC_9-x_V1R1_STIG.zip",
     "size": "1.26 MB",
@@ -1260,6 +1440,7 @@
     "release": 1
   },
   {
+    "id": "221e4c0d-2d6b-488b-8a12-15f14a523f35",
     "name": "Network Device Management SRG - Ver 4, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_NDM_V4R1_SRG.zip",
     "size": "1017.22 KB",
@@ -1267,6 +1448,7 @@
     "release": 1
   },
   {
+    "id": "08d44da6-1e3e-4846-a1ef-a40d9005f71d",
     "name": "Oracle Database 11.2g STIG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Database_11-2g_V2R3_STIG.zip",
     "size": "1.38 MB",
@@ -1274,6 +1456,7 @@
     "release": 3
   },
   {
+    "id": "064b32ae-3275-4356-918d-a018a68df817",
     "name": "Oracle Database 12c STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Database_12c_V2R4_STIG.zip",
     "size": "1.18 MB",
@@ -1281,6 +1464,7 @@
     "release": 4
   },
   {
+    "id": "c979f468-4e22-4743-a5dd-bdd22addccd6",
     "name": "Oracle HTTP Server 12.1.3 STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_HTTP_Server_12-1-3_V2R1_STIG.zip",
     "size": "764.64 KB",
@@ -1288,6 +1472,7 @@
     "release": 1
   },
   {
+    "id": "9e7b2641-cecc-454e-8a93-8dbf03fd05b2",
     "name": "Oracle Linux 6 STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Linux_6_V2R6_STIG.zip",
     "size": "882.99 KB",
@@ -1295,6 +1480,7 @@
     "release": 6
   },
   {
+    "id": "f598756d-68b6-43f1-9ccb-fe6b325eb00a",
     "name": "Oracle Linux 7 STIG - Ver 2, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Linux_7_V2R7_STIG.zip",
     "size": "662.37 KB",
@@ -1302,6 +1488,7 @@
     "release": 7
   },
   {
+    "id": "40a24278-9376-4975-b3a4-47bf03cf13fc",
     "name": "Oracle Linux 7 STIG Benchmark - Ver 2, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Linux_7_V2R7_STIG_SCAP_1-2_Benchmark.zip",
     "size": "88.25 KB",
@@ -1309,6 +1496,7 @@
     "release": 7
   },
   {
+    "id": "a3a679ee-e526-4f7a-97ac-38e0baa0ff6f",
     "name": "Oracle Linux 8 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Linux_8_V1R2_STIG.zip",
     "size": "1.6 MB",
@@ -1316,6 +1504,7 @@
     "release": 2
   },
   {
+    "id": "0fb0fab7-a310-49f9-87b6-1209296f3681",
     "name": "Oracle Linux 8 STIG Benchmark - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Linux_8_V1R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "120.79 KB",
@@ -1323,6 +1512,7 @@
     "release": 1
   },
   {
+    "id": "e9b997a0-7c7a-4395-9f3d-951a31c038e3",
     "name": "Oracle MySQL 8.0 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_MySQL_8-0_V1R2_STIG.zip",
     "size": "1.68 MB",
@@ -1330,6 +1520,7 @@
     "release": 2
   },
   {
+    "id": "716cc83c-cf8c-47e4-86b4-824a0e79251d",
     "name": "Oracle WebLogic Server 12c - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_WebLogic_Server_12c_V2R1_STIG.zip",
     "size": "1.16 MB",
@@ -1337,6 +1528,7 @@
     "release": 1
   },
   {
+    "id": "b8584d19-8eff-4a71-b793-a661a8f47187",
     "name": "Palo Alto Networks STIG for Ansible - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Palo_Alto_Networks_V1R4_STIG_Ansible.zip",
     "size": "338.55 KB",
@@ -1344,6 +1536,7 @@
     "release": 4
   },
   {
+    "id": "a713f02c-9d57-46e3-b093-779b676a935b",
     "name": "PostgresSQL 9.x STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_PGS_SQL_9-x_V2R2_STIG.zip",
     "size": "1.58 MB",
@@ -1351,6 +1544,7 @@
     "release": 2
   },
   {
+    "id": "f18affb8-3ffd-4798-b73e-e5a6f15b00c4",
     "name": "Rancher Government Solutions Multi-Cluster Manager STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RGS_MCM_V1R1_STIG.zip",
     "size": "1.3 MB",
@@ -1358,6 +1552,7 @@
     "release": 1
   },
   {
+    "id": "d568030a-6fd1-4317-b2da-183d1cb08740",
     "name": "Red Hat Enterprise Linux 7 STIG - Ver 3, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_7_V3R7_STIG.zip",
     "size": "808 KB",
@@ -1365,6 +1560,7 @@
     "release": 7
   },
   {
+    "id": "2ff1d8f6-bee4-4430-8db9-8783b5aa5e87",
     "name": "Red Hat Enterprise Linux 7 STIG for Ansible - Ver 3, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_7_V3R7_STIG_Ansible.zip",
     "size": "388.21 KB",
@@ -1372,6 +1568,7 @@
     "release": 7
   },
   {
+    "id": "38e37106-eff7-458b-95a6-5d381cd207fc",
     "name": "Red Hat Enterprise Linux 7 STIG for Chef - Ver 3, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_7_V3R7_STIG_Chef.zip",
     "size": "390.3 KB",
@@ -1379,6 +1576,7 @@
     "release": 7
   },
   {
+    "id": "2e0a0476-0f51-41cc-afec-81ecde50c143",
     "name": "Red Hat Enterprise Linux 8 STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_8_V1R6_STIG.zip",
     "size": "1.19 MB",
@@ -1386,6 +1584,7 @@
     "release": 6
   },
   {
+    "id": "ef0c7007-f41b-42c4-bfff-440cc9871275",
     "name": "Red Hat Enterprise Linux 8 STIG for Ansible - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_8_V1R6_STIG_Ansible.zip",
     "size": "435.01 KB",
@@ -1393,6 +1592,7 @@
     "release": 6
   },
   {
+    "id": "31aa9b4c-dc38-4584-a16b-4d786ae49b98",
     "name": "Red Hat JBoss Enterprise Application Platform (EAP) 6.3 STIG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_JBoss_EAP_6-3_V2R3_STIG.zip",
     "size": "1008.98 KB",
@@ -1400,6 +1600,7 @@
     "release": 3
   },
   {
+    "id": "898048e3-f336-4428-aba5-e124277d0b09",
     "name": "Redis Enterprise 6.x STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Redis_Enterprise_6-x_V1R1_STIG.zip",
     "size": "1.48 MB",
@@ -1407,6 +1608,7 @@
     "release": 1
   },
   {
+    "id": "d55a37ac-bf50-420e-b8c7-79dca0135f91",
     "name": "RHEL 7 STIG Benchmark - Ver 3, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_7_V3R6_STIG_SCAP_1-2_Benchmark.zip",
     "size": "93.68 KB",
@@ -1414,6 +1616,7 @@
     "release": 6
   },
   {
+    "id": "abed98f0-25ba-4cd6-866e-4042a37f772c",
     "name": "RHEL 7 STIG Benchmark - Ver 3, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_7_V3R7_STIG_SCAP_1-2_Benchmark.zip",
     "size": "93.67 KB",
@@ -1421,6 +1624,7 @@
     "release": 7
   },
   {
+    "id": "757a32bf-c3ee-4481-8771-f837c2f5e882",
     "name": "RHEL 8 STIG Benchmark - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_8_V1R5_STIG_SCAP_1-2_Benchmark.zip",
     "size": "118.98 KB",
@@ -1428,6 +1632,7 @@
     "release": 5
   },
   {
+    "id": "e1ea467c-82f3-4814-a2d0-b08cf5d2934b",
     "name": "Router SRG - Ver 4, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Router_V4R2_SRG.zip",
     "size": "842.54 KB",
@@ -1435,6 +1640,7 @@
     "release": 2
   },
   {
+    "id": "d3ceff10-78e7-47de-8a37-7d335ec7992b",
     "name": "Samsung Android 12 with Knox 3.x - Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SS_Android_12_KPE_3-x_V1R1_STIG.zip",
     "size": "1.57 MB",
@@ -1442,6 +1648,7 @@
     "release": 1
   },
   {
+    "id": "a5a4ca8a-3b3f-48ca-a038-b5e339f1fd0d",
     "name": "Samsung Android OS 10 with Knox 3.x STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SS_Android_10_Knox_3-x_V1R1_STIG.zip",
     "size": "1.97 MB",
@@ -1449,6 +1656,7 @@
     "release": 1
   },
   {
+    "id": "5c462588-23c7-4bc0-a2b1-7a90c1cc7c98",
     "name": "Samsung SDS EMM STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SS_SDS_EMM_V1R2_STIG.zip",
     "size": "1.98 MB",
@@ -1456,6 +1664,7 @@
     "release": 2
   },
   {
+    "id": "50533b73-57bc-455e-a622-8859b3c19c60",
     "name": "SDN Controller SRG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SDN_Controller_V1R2_SRG.zip",
     "size": "780.17 KB",
@@ -1463,6 +1672,7 @@
     "release": 2
   },
   {
+    "id": "6f35ea29-6614-4dee-ac79-ce0e9405ee8f",
     "name": "SEL-2740S STIG Ver 1 Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SEL-2740S_V1R1_STIG.zip",
     "size": "1.5 MB",
@@ -1470,6 +1680,7 @@
     "release": 1
   },
   {
+    "id": "5b3718cd-b646-4483-a3f7-6e0c274767db",
     "name": "SLES 12 STIG Benchmark - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SLES_12_V2R6_STIG_SCAP_1-2_Benchmark.zip",
     "size": "55.64 KB",
@@ -1477,6 +1688,7 @@
     "release": 6
   },
   {
+    "id": "e42bd3b0-de22-44cf-86f7-8270bc5e3510",
     "name": "SLES 15 STIG Benchmark - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SLES_15_V1R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "55.93 KB",
@@ -1484,6 +1696,7 @@
     "release": 1
   },
   {
+    "id": "ecfa2623-24e4-4fc8-babe-59265928f5a1",
     "name": "SLES V11 for System z STIG - Ver 1, Rel 12",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SLES_V11_for_System_z_V1R12_STIG.zip",
     "size": "568.64 KB",
@@ -1491,6 +1704,7 @@
     "release": 12
   },
   {
+    "id": "714c31c0-d98f-4e13-9996-83b162afaea1",
     "name": "Software-Defined Networking (SDN) Using Network Virtualization (NV) STIG Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SDN_NV_V1R1_STIG.zip",
     "size": "496.15 KB",
@@ -1498,6 +1712,7 @@
     "release": 1
   },
   {
+    "id": "799b4c37-8d43-4341-97a2-fc1d61c3a02a",
     "name": "Solaris 10 SPARC STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_10_SPARC_V2R2_STIG.zip",
     "size": "870.04 KB",
@@ -1505,6 +1720,7 @@
     "release": 2
   },
   {
+    "id": "dcbb4c22-a8f7-4505-b729-7cefb8455f55",
     "name": "Solaris 10 SPARC STIG Benchmark - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_10_SPARC_V2R2_STIG_SCAP_1-2_Benchmark.zip",
     "size": "78.95 KB",
@@ -1512,6 +1728,7 @@
     "release": 2
   },
   {
+    "id": "8324759f-9128-4adb-bf83-d6a49ba5a950",
     "name": "Solaris 10 X86 STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_10_x86_V2R2_STIG.zip",
     "size": "973.77 KB",
@@ -1519,6 +1736,7 @@
     "release": 2
   },
   {
+    "id": "181f7a25-10d9-44e1-8a40-8ef122455dc3",
     "name": "Solaris 10 x86 STIG Benchmark - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_10_X86_V2R2_STIG_SCAP_1-2_Benchmark.zip",
     "size": "80.17 KB",
@@ -1526,6 +1744,7 @@
     "release": 2
   },
   {
+    "id": "9e3b7cc4-e667-4da2-99a7-eb99d7f4a1fe",
     "name": "Solaris 11 SPARC STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_11_SPARC_V2R6_STIG.zip",
     "size": "894.25 KB",
@@ -1533,6 +1752,7 @@
     "release": 6
   },
   {
+    "id": "e4e86685-a3a0-4e85-a4eb-5a807fc5462a",
     "name": "Solaris 11 SPARC STIG Benchmark - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_11_SPARC_V2R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "38.94 KB",
@@ -1540,6 +1760,7 @@
     "release": 3
   },
   {
+    "id": "4ac8d8ca-ef30-4cb5-b60f-a52fb5b29656",
     "name": "Solaris 11 x86 STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_11_x86_V2R6_STIG.zip",
     "size": "895.22 KB",
@@ -1547,6 +1768,7 @@
     "release": 6
   },
   {
+    "id": "1fafaa9e-c019-44f9-bd42-6712a56a730b",
     "name": "Solaris 11 X86 STIG Benchmark - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SOL_11_X86_V2R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "39.94 KB",
@@ -1554,6 +1776,7 @@
     "release": 3
   },
   {
+    "id": "51826c0d-52ea-4e1f-80f8-0b05958fe44e",
     "name": "Splunk Enterprise 7.x for Windows STIG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Splunk_Enterprise_7-x_for_Windows_V2R3_STIG.zip",
     "size": "3.25 MB",
@@ -1561,6 +1784,7 @@
     "release": 3
   },
   {
+    "id": "d63fe62e-7048-422e-b49c-53efe8621117",
     "name": "Splunk Enterprise 8.0 for Linux STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Splunk_Enterprise_8-x_for_Linux_V1R2_STIG.zip",
     "size": "3.45 MB",
@@ -1568,6 +1792,7 @@
     "release": 2
   },
   {
+    "id": "1d4a7e38-2a23-4cc9-bbb7-d209d50a0208",
     "name": "Storage Area Network STIG - Ver 2, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Storage_Area_Network_V2R4_STIG.zip",
     "size": "1.1 MB",
@@ -1575,6 +1800,7 @@
     "release": 4
   },
   {
+    "id": "4f2947da-a564-45ce-b0aa-5addf2b2958d",
     "name": "Sunset - Adobe Acrobat Pro DC Classic Track STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Pro_DC_Classic_V2R1_STIG.zip",
     "size": "664.84 KB",
@@ -1582,6 +1808,7 @@
     "release": 1
   },
   {
+    "id": "6ad4e38d-4f69-493c-a04c-ef633e3dde26",
     "name": "Sunset - Adobe Acrobat Pro XI STIG Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Pro_XI_V1R2_STIG.zip",
     "size": "382.41 KB",
@@ -1589,6 +1816,7 @@
     "release": 2
   },
   {
+    "id": "ba98d860-8a28-4946-9f6c-c23ea5851bbe",
     "name": "Sunset - Adobe Acrobat Reader DC Classic Track STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Reader_DC_Classic_V2R1_STIG.zip",
     "size": "714.32 KB",
@@ -1596,6 +1824,7 @@
     "release": 1
   },
   {
+    "id": "f3a68c7b-00cb-40c9-8f9c-a8edd25ae13a",
     "name": "Sunset - Adobe Acrobat Reader DC Classic Track STIG Benchmark - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_Acrobat_Reader_DC_Classic_V2R1_STIG_SCAP_1-2_Benchmark.zip",
     "size": "10.95 KB",
@@ -1603,6 +1832,7 @@
     "release": 1
   },
   {
+    "id": "a2d6c589-f5cb-4986-a38f-0890f49edd61",
     "name": "Sunset - Adobe ColdFusion 11 STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Adobe_ColdFusion_11_V2R1_STIG.zip",
     "size": "889.89 KB",
@@ -1610,6 +1840,7 @@
     "release": 1
   },
   {
+    "id": "87e151f6-8d2b-4522-9827-d41994da6b5e",
     "name": "Sunset - AirWatch MDM STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_AirWatch_MDM_V1R3_STIG.zip",
     "size": "677.55 KB",
@@ -1617,6 +1848,7 @@
     "release": 3
   },
   {
+    "id": "5ee66ec9-95f8-481f-8062-cacf326c66b5",
     "name": "Sunset - AIX 6.1 STIG - Ver 1, Rel 14",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_AIX_6-1_V1R14_STIG.zip",
     "size": "451.33 KB",
@@ -1624,6 +1856,7 @@
     "release": 14
   },
   {
+    "id": "33b5650e-06f7-4aa3-a875-74a92aae7380",
     "name": "Sunset - AIX 6.1 STIG-Benchmark - Ver 1, Rel 9",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_AIX_6-1_V1R9_STIG_SCAP_1-1_Benchmark.zip",
     "size": "70.83 KB",
@@ -1631,6 +1864,7 @@
     "release": 9
   },
   {
+    "id": "b48e1e59-8a2b-4347-bd61-0864db722597",
     "name": "Sunset - Apple iOS 11 STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_iOS_11_V1R4_STIG.zip",
     "size": "875.23 KB",
@@ -1638,6 +1872,7 @@
     "release": 4
   },
   {
+    "id": "716d0bc1-d39b-4f4a-a549-a1706568496c",
     "name": "Sunset - Apple iOS/iPad OS 13 STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_iOS_iPadOS_13_V2R1_STIG.zip",
     "size": "2.6 MB",
@@ -1645,6 +1880,7 @@
     "release": 1
   },
   {
+    "id": "0fd73778-e277-41ae-b120-d5fbbb7b8c3a",
     "name": "Sunset - Apple macOS 10.13 STIG - Ver 2, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_OS_X_10-13_V2R5_STIG.zip",
     "size": "783.5 KB",
@@ -1652,6 +1888,7 @@
     "release": 5
   },
   {
+    "id": "315f8aa5-9844-48a1-876a-dc7877d3ec27",
     "name": "Sunset - Apple macOS 10.14 STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_OS_X_10-14_V2R6_STIG.zip",
     "size": "1.79 MB",
@@ -1659,6 +1896,7 @@
     "release": 6
   },
   {
+    "id": "ccf29989-12f6-46ee-b19f-9145f843c04b",
     "name": "Sunset - Apple OS X 10.12 STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apple_OS_X_10-12_V1R6_STIG.zip",
     "size": "734.39 KB",
@@ -1666,6 +1904,7 @@
     "release": 6
   },
   {
+    "id": "477f528c-dd82-4e5d-9b0c-6c9221c5507b",
     "name": "Sunset - BlackBerry OS 10.3x STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BlackBerry_OS_10-3-x_V1R4_STIG.zip",
     "size": "1.92 MB",
@@ -1673,6 +1912,7 @@
     "release": 4
   },
   {
+    "id": "b45155ff-90fa-46e9-80c8-1ace2722268f",
     "name": "Sunset - BlackBerry UEM 12.10 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BB_UEM_12-10_MDM_V1R1_STIG.zip",
     "size": "1.12 MB",
@@ -1680,6 +1920,7 @@
     "release": 1
   },
   {
+    "id": "1ef4a445-5f75-4932-a8c8-60d04d006655",
     "name": "Sunset - BlackBerry UEM 12.11 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BB_UEM_12-11_MDM_V1R1_STIG.zip",
     "size": "1.18 MB",
@@ -1687,6 +1928,7 @@
     "release": 1
   },
   {
+    "id": "9fcb03fa-df85-44b7-a516-2d53bafffc10",
     "name": "Sunset - BlackBerry UEM 12.8 STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_BB_UEM_12-8_MDM_V1R2_STIG.zip",
     "size": "1.38 MB",
@@ -1694,6 +1936,7 @@
     "release": 2
   },
   {
+    "id": "fc03b8f3-9457-4923-b4e6-d09dd11f9068",
     "name": "Sunset - Canonical Ubuntu 16.04 LTS STIG - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_16-04_LTS_V2R3_STIG.zip",
     "size": "677.91 KB",
@@ -1701,6 +1944,7 @@
     "release": 3
   },
   {
+    "id": "674072aa-0f9e-41d2-9d8c-4a54bae01b3e",
     "name": "Sunset - Canonical Ubuntu 16.04 LTS STIG Benchmark - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CAN_Ubuntu_16-04_LTS_V2R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "55.78 KB",
@@ -1708,6 +1952,7 @@
     "release": 3
   },
   {
+    "id": "9f0640e5-6349-454e-9936-937ea8807e6f",
     "name": "Sunset - CISCO CSS DNS STIG - Ver 4, Rel 1.18",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CISCO_CSS_DNS_V4R1-18_STIG.zip",
     "size": "442.95 KB",
@@ -1715,6 +1960,7 @@
     "release": 1
   },
   {
+    "id": "6b71b9b7-477e-4e0c-8ffa-edbee4193bdd",
     "name": "Sunset - Cisco IOS XE Release 3 NDM STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS-XE_Release_3_NDM_V1R5_STIG.zip",
     "size": "626.59 KB",
@@ -1722,6 +1968,7 @@
     "release": 5
   },
   {
+    "id": "6b3a9d3c-c15c-4b8d-9ff0-2404a682e4e3",
     "name": "Sunset - Cisco IOS XE Release 3 Router Overview - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS-XE_Release_3_Router_V1R4_Overview.zip",
     "size": "236.14 KB",
@@ -1729,6 +1976,7 @@
     "release": 4
   },
   {
+    "id": "5d6322f5-e02f-40dc-8548-0fd815a50e32",
     "name": "Sunset - Cisco IOS XE Release 3 RTR STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Cisco_IOS-XE_Release_3_RTR_V1R3_STIG.zip",
     "size": "416.86 KB",
@@ -1736,6 +1984,7 @@
     "release": 3
   },
   {
+    "id": "fa8f737d-9a6f-4783-bc84-23b4868034ff",
     "name": "Sunset - Citrix XenApp STIG - Ver 1, Rel 1.4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_xenapp_v1r1.4_stig_20130426.zip",
     "size": "1.54 MB",
@@ -1743,6 +1992,7 @@
     "release": 1
   },
   {
+    "id": "540d2e6e-ef6c-4e77-8466-d2c9868f7c75",
     "name": "Sunset - CSfC Campus WLAN Policy STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Network_CSfC_WLAN_Policy_V1R3_STIG.zip",
     "size": "313.78 KB",
@@ -1750,6 +2000,7 @@
     "release": 3
   },
   {
+    "id": "08dcf09a-a6f2-4385-b17a-5b1e6903d515",
     "name": "Sunset - Desktop Applications General STIG - Ver 4, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Desktop_Apps_General_V4R5_STIG.zip",
     "size": "533.68 KB",
@@ -1757,6 +2008,7 @@
     "release": 5
   },
   {
+    "id": "f99ba874-3472-4f37-bd91-6e994f45c376",
     "name": "Sunset - DNS Policy STIG - Ver 4, Rel 1.22",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_DNS_Policy_V4R1-22_STIG.zip",
     "size": "721.21 KB",
@@ -1764,6 +2016,7 @@
     "release": 1
   },
   {
+    "id": "c40be73f-fb18-425b-bf3a-0ecfeaa04d0b",
     "name": "Sunset - Email Services Policy STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Email_Services_Policy_V2R6_STIG.zip",
     "size": "535.35 KB",
@@ -1771,6 +2024,7 @@
     "release": 6
   },
   {
+    "id": "996e0cc0-5bb4-4cc2-9b5d-03cc1e345e19",
     "name": "Sunset - Enclave STIG - Ver 4, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_enclave_v4r5_stig.zip",
     "size": "637.07 KB",
@@ -1778,6 +2032,7 @@
     "release": 5
   },
   {
+    "id": "7519f346-c2a3-4a8b-8f5c-a0e4e07c760d",
     "name": "Sunset - Enclave Test and Development STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Enclave_T-D_V1R6_STIG.zip",
     "size": "703.24 KB",
@@ -1785,6 +2040,7 @@
     "release": 6
   },
   {
+    "id": "dfd95426-7ef2-4190-bf29-8f015dc5cc61",
     "name": "Sunset - Google Search Appliance STIG",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Google_Search_Appliance_V1R1_STIG.zip",
     "size": "258.63 KB",
@@ -1792,6 +2048,7 @@
     "release": 1
   },
   {
+    "id": "c28c1737-43ce-40bb-9408-cae668a19f37",
     "name": "Sunset - Harris SecNet 11/54 STIG - Ver 6, Rel 10",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Network_Harris_SecNet_11_54_V6R10_STIG.zip",
     "size": "310.42 KB",
@@ -1799,6 +2056,7 @@
     "release": 10
   },
   {
+    "id": "d1914ff9-0118-4cf5-911e-2499adbb384e",
     "name": "Sunset - HP-UX 11.23 Manual STIG - Ver 1, Rel 8",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HPUX_11-23_V1R8_STIG.zip",
     "size": "469.17 KB",
@@ -1806,6 +2064,7 @@
     "release": 8
   },
   {
+    "id": "2832963b-75f7-49d6-8285-a2aa32150577",
     "name": "Sunset - HP-UX 11.23 STIG-Benchmark - Ver 1, Rel 9",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HPUX_11-23_V1R9_STIG_SCAP_1-1_Benchmark.zip",
     "size": "101.2 KB",
@@ -1813,6 +2072,7 @@
     "release": 9
   },
   {
+    "id": "955f2e69-fb68-41f6-b0d0-5a9aa09439fc",
     "name": "Sunset - HP-UX 11.31 STIG - Ver 1, Rel 19",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HPUX_11-31_V1R19_STIG.zip",
     "size": "785.63 KB",
@@ -1820,6 +2080,7 @@
     "release": 19
   },
   {
+    "id": "f55fa514-a571-4850-af73-fe4b71954e0e",
     "name": "Sunset - HP-UX 11.31 STIG Benchmark - Ver 1, Rel 17",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_HPUX_11-31_V1R17_STIG_SCAP_1-2_Benchmark.zip",
     "size": "109.21 KB",
@@ -1827,6 +2088,7 @@
     "release": 17
   },
   {
+    "id": "e14a8a12-3d53-4cb0-8a0f-279541c4d0b7",
     "name": "Sunset - IBM MaaS360 V2.3.x MDM STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_IBM_MaaS360_v2-3-x_MDM_V1R2_STIG.zip",
     "size": "700.4 KB",
@@ -1834,6 +2096,7 @@
     "release": 2
   },
   {
+    "id": "a794a444-c91d-4772-a3cd-d461f41accfd",
     "name": "Sunset - L3 KOV-26 Talon (Wireless Role) STIG - Ver 6, Rel 8",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Network_L3_KOV-26_Talon_Wireless_Role_V6R8_STIG.zip",
     "size": "233.34 KB",
@@ -1841,6 +2104,7 @@
     "release": 8
   },
   {
+    "id": "17431fba-8b97-4ac3-a1c8-5b20c07d5377",
     "name": "Sunset - McAfee VirusScan 8.8 Local Client STIG - Ver 6, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_VirusScan88_Local_Client_V6R1_STIG.zip",
     "size": "873.79 KB",
@@ -1848,6 +2112,7 @@
     "release": 1
   },
   {
+    "id": "71ed7676-d515-45d7-b94c-9e81b2d2fc8f",
     "name": "Sunset - McAfee VirusScan 8.8 Local Client STIG Benchmark - Version 1, Release 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_VirusScan_8-8_Local_Client_V1R4_STIG_SCAP_1-2_Benchmark.zip",
     "size": "37.07 KB",
@@ -1855,6 +2120,7 @@
     "release": 4
   },
   {
+    "id": "4fea5e81-a3fb-4b14-98ad-d28abd3009dd",
     "name": "Sunset - McAfee VirusScan 8.8 Managed Client STIG - Ver 6, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_VirusScan88_Managed_Client_V6R1_STIG.zip",
     "size": "842.16 KB",
@@ -1862,6 +2128,7 @@
     "release": 1
   },
   {
+    "id": "fed501c5-92f8-4abd-bd8d-77f618cca19e",
     "name": "Sunset - Microsoft InfoPath 2007 STIG - Ver 4, Rel 13",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_InfoPath_2007_V4R13_STIG.zip",
     "size": "430.67 KB",
@@ -1869,6 +2136,7 @@
     "release": 13
   },
   {
+    "id": "2bc1d20d-6956-4ccb-9f6d-6787d33a3156",
     "name": "Sunset - Microsoft Internet Explorer 10 STIG - Ver 1, Rel 16",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_IE10_V1R16_STIG.zip",
     "size": "934.99 KB",
@@ -1876,6 +2144,7 @@
     "release": 16
   },
   {
+    "id": "6dfebaff-d0b0-4213-afcf-377de35ae907",
     "name": "Sunset - Microsoft Internet Explorer 10 STIG Benchmark - Ver 1, Rel 10",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_IE10_V1R10_STIG_SCAP_1-2_Benchmark.zip",
     "size": "66.9 KB",
@@ -1883,6 +2152,7 @@
     "release": 10
   },
   {
+    "id": "4250b147-43a9-4a7e-bdde-42a4fa69d95a",
     "name": "Sunset - Microsoft Internet Explorer 9 STIG - Ver 1, Rel 15",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Microsoft_IE9_V1R15_STIG.zip",
     "size": "345.95 KB",
@@ -1890,6 +2160,7 @@
     "release": 15
   },
   {
+    "id": "1eef290a-65c0-42fd-a551-49e8f0a95387",
     "name": "Sunset - Microsoft SQL Server 2012 STIG - Ver 1, Rel 20",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_SQL_Server_2012_V1R20_STIG.zip",
     "size": "1019.87 KB",
@@ -1897,6 +2168,7 @@
     "release": 20
   },
   {
+    "id": "1f71067b-9208-4165-85f7-8eef40b57841",
     "name": "Sunset - Microsoft Windows 10 Mobile STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_10_Mobile_V1R4_STIG.zip",
     "size": "1.9 MB",
@@ -1904,6 +2176,7 @@
     "release": 4
   },
   {
+    "id": "5001c4b5-6fcc-4769-94c0-118d164cc0d7",
     "name": "Sunset - Microsoft Windows 2008 DC STIG - Ver 6, Rel 47",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_DC_V6R47_STIG.zip",
     "size": "886.99 KB",
@@ -1911,6 +2184,7 @@
     "release": 47
   },
   {
+    "id": "1c963273-4ff6-4e0f-a2b7-46daffca9951",
     "name": "Sunset - Microsoft Windows 2008 DC STIG Benchmark - Ver 6, Rel 45",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_DC_V6R45_STIG_SCAP_1-2_Benchmark.zip",
     "size": "99.29 KB",
@@ -1918,6 +2192,7 @@
     "release": 45
   },
   {
+    "id": "049c62f2-8939-4a0a-b977-e08dde13fe5b",
     "name": "Sunset - Microsoft Windows 2008 MS STIG - Ver 6, Rel 46",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_MS_V6R46_STIG.zip",
     "size": "881.7 KB",
@@ -1925,6 +2200,7 @@
     "release": 46
   },
   {
+    "id": "413d3291-103e-412c-8f26-9472b684cc44",
     "name": "Sunset - Microsoft Windows 2008 MS STIG Benchmark - Ver 6, Rel 45",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_MS_V6R45_STIG_SCAP_1-2_Benchmark.zip",
     "size": "96.55 KB",
@@ -1932,6 +2208,7 @@
     "release": 45
   },
   {
+    "id": "16a67c58-5be6-41f3-9915-ed51db9610ac",
     "name": "Sunset - Microsoft Windows 2008 R2 DC STIG - Ver 1, Rel 34",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_R2_DC_V1R34_STIG.zip",
     "size": "904.34 KB",
@@ -1939,6 +2216,7 @@
     "release": 34
   },
   {
+    "id": "4a8f9843-3448-495c-b207-560cacd04361",
     "name": "Sunset - Microsoft Windows 2008 R2 DC STIG Benchmark - Ver 1, Rel 33",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_R2_DC_V1R33_STIG_SCAP_1-2_Benchmark.zip",
     "size": "112.44 KB",
@@ -1946,6 +2224,7 @@
     "release": 33
   },
   {
+    "id": "96083f65-bf06-498c-b78d-6148763346bd",
     "name": "Sunset - Microsoft Windows 2008 R2 MS STIG - Ver 1, Rel 33",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_R2_MS_V1R33_STIG.zip",
     "size": "877.75 KB",
@@ -1953,6 +2232,7 @@
     "release": 33
   },
   {
+    "id": "b746b005-0076-4cbb-88ec-413dcdf86f99",
     "name": "Sunset - Microsoft Windows 2008 R2 MS STIG Benchmark - Ver 1, Rel 34",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_R2_MS_V1R34_STIG_SCAP_1-2_Benchmark.zip",
     "size": "107.88 KB",
@@ -1960,6 +2240,7 @@
     "release": 34
   },
   {
+    "id": "c562ca7f-af29-449f-a3e5-d799a1cd26d6",
     "name": "Sunset - Microsoft Windows 2008 Server DNS STIG - Ver 1, Rel 8",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_2008_Server_DNS_V1R8_STIG.zip",
     "size": "621.78 KB",
@@ -1967,6 +2248,7 @@
     "release": 8
   },
   {
+    "id": "febb01f0-6074-4090-b34b-a17322387b9d",
     "name": "Sunset - Microsoft Windows 7 STIG - Ver 1, Rel 32",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_7_V1R32_STIG.zip",
     "size": "895.09 KB",
@@ -1974,6 +2256,7 @@
     "release": 32
   },
   {
+    "id": "1d4929d5-130b-4d4e-8c6d-99b582c8b379",
     "name": "Sunset - Microsoft Windows 7 STIG Benchmark - Ver 1, Rel 36",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_7_V1R36_STIG_SCAP_1-2_Benchmark.zip",
     "size": "130.68 KB",
@@ -1981,6 +2264,7 @@
     "release": 36
   },
   {
+    "id": "df7fc466-18eb-40a5-8167-f7b468cece07",
     "name": "Sunset - Microsoft Windows 8/8.1 STIG - Ver 1, Rel 23",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_8_and_8-1_V1R23_STIG.zip",
     "size": "913.02 KB",
@@ -1988,6 +2272,7 @@
     "release": 23
   },
   {
+    "id": "4818ba03-d5c0-4d06-bdfa-fca923141af2",
     "name": "Sunset - Microsoft Windows 8/8.1 STIG Benchmark - Ver 1, Rel 22",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_8_and_8-1_V1R22_STIG_SCAP_1-2_Benchmark.zip",
     "size": "143.43 KB",
@@ -1995,6 +2280,7 @@
     "release": 22
   },
   {
+    "id": "49f0c749-c8f2-454f-9185-b2240b4e7f12",
     "name": "Sunset - Microsoft Windows DNS STIG - Ver 4, Rel 1.19",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_DNS_V4R1-19_STIG.zip",
     "size": "454.72 KB",
@@ -2002,6 +2288,7 @@
     "release": 1
   },
   {
+    "id": "0796b4a4-6819-47a0-b513-6e9595fa9419",
     "name": "Sunset - Microsoft Windows Vista STIG - Ver 6, Rel 42",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_Vista_V6R42_STIG.zip",
     "size": "615.5 KB",
@@ -2009,6 +2296,7 @@
     "release": 42
   },
   {
+    "id": "5aae6e16-4e12-44bd-b1e9-e772889694c0",
     "name": "Sunset - Microsoft Windows Vista STIG Benchmark - Ver 6, Rel 44",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_Vista_V6R44_STIG_SCAP_1-1_Benchmark.zip",
     "size": "105.83 KB",
@@ -2016,6 +2304,7 @@
     "release": 44
   },
   {
+    "id": "b8a655c3-c533-4914-aa83-736a6384fbac",
     "name": "Sunset - Microsoft Windows XP STIG - Version 6, Release 1.32",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Windows_XP_V6R1.32_STIG.zip",
     "size": "535.29 KB",
@@ -2023,6 +2312,7 @@
     "release": 1
   },
   {
+    "id": "bccdde87-a7ce-4c58-835c-19cc93524cb9",
     "name": "Sunset - Microsoft Windows XP STIG Benchmark - Ver 6, Rel 1.34",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_windows_xp_v6r1.34_stig_benchmark.zip",
     "size": "83.23 KB",
@@ -2030,6 +2320,7 @@
     "release": 1
   },
   {
+    "id": "66abf6b8-4e90-4ff0-97e8-299af2c62997",
     "name": "Sunset - Oracle 10g Database STIG - Ver 8, Rel 1.11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_oracle_db_10g_v8r1.11_stigs.zip",
     "size": "1.07 MB",
@@ -2037,6 +2328,7 @@
     "release": 1
   },
   {
+    "id": "65e5d6e4-2910-4c13-8dff-1d87bf1c405f",
     "name": "Sunset - Oracle 9 Database STIG - Ver 8, Rel 1.8",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_oracle_9_v8r1.8_stig_20121026.zip",
     "size": "1.24 MB",
@@ -2044,6 +2336,7 @@
     "release": 1
   },
   {
+    "id": "1810cb8d-65c2-4267-8035-54a03a022469",
     "name": "Sunset - Oracle JRE 8 UNIX STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_JRE_8_UNIX_V1R3_STIG.zip",
     "size": "442.57 KB",
@@ -2051,6 +2344,7 @@
     "release": 3
   },
   {
+    "id": "6e6d43da-4af8-4178-a840-823216f5f857",
     "name": "Sunset - Oracle JRE 8 Windows STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_JRE_Windows_V2R1_STIG.zip",
     "size": "905.36 KB",
@@ -2058,6 +2352,7 @@
     "release": 1
   },
   {
+    "id": "8cf7ea9a-be68-430f-9d59-e4b11ba64e3c",
     "name": "Sunset - Oracle Linux 5 STIG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Oracle_Linux_5_V2R1_STIG.zip",
     "size": "814.81 KB",
@@ -2065,6 +2360,7 @@
     "release": 1
   },
   {
+    "id": "4f1a94ba-4291-4a03-bab8-1f3ae4c30e2c",
     "name": "Sunset - Red Hat 5 Manual STIG - Ver 1, Rel 18",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RedHat_5_V1R18_STIG.zip",
     "size": "598.58 KB",
@@ -2072,6 +2368,7 @@
     "release": 18
   },
   {
+    "id": "d99b63d9-6e54-444e-b5bf-57b43802c5ad",
     "name": "Sunset - Red Hat 5 STIG Benchmark - Ver 1, Rel 19",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RedHat_5_V1R19_STIG_SCAP_1-1_Benchmark.zip",
     "size": "165.72 KB",
@@ -2079,6 +2376,7 @@
     "release": 19
   },
   {
+    "id": "19b78743-cc97-49f2-98d8-329697248ac9",
     "name": "Sunset - Red Hat Enterprise Linux 6 STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_6_V2R2_STIG.zip",
     "size": "971.12 KB",
@@ -2086,6 +2384,7 @@
     "release": 2
   },
   {
+    "id": "74d15ce3-0e81-4dc8-bd83-7e7eca04b56e",
     "name": "Sunset - Red Hat Enterprise Linux 6 STIG Benchmark - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_RHEL_6_V2R2_STIG_SCAP_1-2_Benchmark.zip",
     "size": "93.91 KB",
@@ -2093,6 +2392,7 @@
     "release": 2
   },
   {
+    "id": "9e82c686-991a-4af1-a41c-b3032f840352",
     "name": "Sunset - Removable Storage STIG - Ver 1, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Removable_Storage_and_External_Connections_V1R7_STIG.zip",
     "size": "463.5 KB",
@@ -2100,6 +2400,7 @@
     "release": 7
   },
   {
+    "id": "1f4fba94-743d-4113-be43-a3f40044d8ba",
     "name": "Sunset - Samsung Android OS 7 with Knox 2.x STIG - Ver 1, Rel 7",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SS_Android_OS_7_Knox_2-x_V1R7_STIG.zip",
     "size": "1.57 MB",
@@ -2107,6 +2408,7 @@
     "release": 7
   },
   {
+    "id": "6093a51a-7278-4019-9755-298fc75a694d",
     "name": "Sunset - Symantec Endpoint Protection 12.1 Local Client STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Symantec_Endpoint_Protection_12-1_Locally_Configured_V1R3_STIG.zip",
     "size": "311.85 KB",
@@ -2114,6 +2416,7 @@
     "release": 3
   },
   {
+    "id": "cd201dfb-be91-41de-989b-0a24d149f5ce",
     "name": "Sunset - Symantec Endpoint Protection 12.1 Managed Client STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Symantec_Endpoint_Protection_12-1_Managed_Client_V1R4_STIG.zip",
     "size": "312.81 KB",
@@ -2121,6 +2424,7 @@
     "release": 4
   },
   {
+    "id": "59c8d1a2-a7e8-4ebe-b7a3-115cd42e927c",
     "name": "Sunset - Symantec Endpoint Protection 12.1 Overview - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Symantec_Endpoint_Protection_12-1_V1R1_Overview.zip",
     "size": "224.25 KB",
@@ -2128,6 +2432,7 @@
     "release": 1
   },
   {
+    "id": "c98987ea-cebc-4c11-9d17-117293cec75a",
     "name": "Sunset - VMware AirWatch v9.x MDM STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_AW_v9-x_MDM_V1R2_STIG.zip",
     "size": "888.85 KB",
@@ -2135,6 +2440,7 @@
     "release": 2
   },
   {
+    "id": "917274b9-d5cc-4469-85ca-71dc145fdd96",
     "name": "Sunset - VMWare ESX 3 Policy STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_ESX_3_Policy_V1R2_STIG.zip",
     "size": "302.4 KB",
@@ -2142,6 +2448,7 @@
     "release": 2
   },
   {
+    "id": "5606debc-ed59-4258-bbf0-02c48236561f",
     "name": "Sunset - VMware ESX 3 Server STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_ESX_3_Server_V1R2_STIG.zip",
     "size": "441.18 KB",
@@ -2149,6 +2456,7 @@
     "release": 2
   },
   {
+    "id": "d3246560-70ce-473a-bb8a-67adf879d790",
     "name": "Sunset - VMware ESX 3 Virtual Center STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_ESX_3_Virtual_Center_V1R2_STIG.zip",
     "size": "326.67 KB",
@@ -2156,6 +2464,7 @@
     "release": 2
   },
   {
+    "id": "fc361500-a41d-4275-bc7d-897703288d78",
     "name": "Sunset - VMware ESX 3 Virtual Machine STIG - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_ESX_3_Virtual_Machine_V1R2_STIG.zip",
     "size": "310.92 KB",
@@ -2163,6 +2472,7 @@
     "release": 2
   },
   {
+    "id": "9c5a96df-a886-464c-a8ff-c639e3c97c10",
     "name": "Sunset - VMware ESXi 5 Server STIG - Version 2, Release 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_ESXi5_Server_V2R1_STIG.zip",
     "size": "883.35 KB",
@@ -2170,6 +2480,7 @@
     "release": 1
   },
   {
+    "id": "89d1c575-2db0-466b-80d7-e179ddd688a0",
     "name": "Sunset - VMware ESXi 5 vCenter Server STIG - Version 2, Release 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_ESXi5_vCenter_Server_V2R1_STIG.zip",
     "size": "889.34 KB",
@@ -2177,6 +2488,7 @@
     "release": 1
   },
   {
+    "id": "6e613112-3a3a-4b37-b20f-6d63ecb30ca0",
     "name": "Sunset - VMware ESXi 5 Virtual Machine STIG - Version 2, Release 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_ESXi5_Virtual_Machine_V2R1_STIG.zip",
     "size": "812.4 KB",
@@ -2184,6 +2496,7 @@
     "release": 1
   },
   {
+    "id": "d9a73596-18a9-4df3-bd58-3c49ab3f529e",
     "name": "Sunset - VMware vSphere 6.0 ESXi STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_vSphere_6-0_ESXi_V1R5_STIG.zip",
     "size": "699.63 KB",
@@ -2191,6 +2504,7 @@
     "release": 5
   },
   {
+    "id": "186fc4fd-abe9-4415-b99f-1d56f7fda7c2",
     "name": "Sunset - VMware vSphere 6.0 vCenter Server for Windows STIG - Ver 1, Rel 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_vSphere_6-0_vCenter_Server_for_Windows_V1R4_STIG.zip",
     "size": "459.52 KB",
@@ -2198,6 +2512,7 @@
     "release": 4
   },
   {
+    "id": "5f239c25-a45f-47fd-a670-3bd3da566b57",
     "name": "Sunset - VMware vSphere 6.0 Virtual Machine STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_vSphere_6-0_Virtual_Machine_V1R1_STIG.zip",
     "size": "260.33 KB",
@@ -2205,6 +2520,7 @@
     "release": 1
   },
   {
+    "id": "85bc48f8-d989-46bb-97f4-5a1599739423",
     "name": "Sunset - Wireless STIG - Ver 6, Rel 9",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/u_wireless_v6r9_stig.zip",
     "size": "1.09 MB",
@@ -2212,6 +2528,7 @@
     "release": 9
   },
   {
+    "id": "87d0bdcb-4ec4-4a3d-9332-24bbbe2550e4",
     "name": "Sunset - Apache 2.0 UNIX STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apache_2-0_UNIX_V1R5_STIG.zip",
     "size": "494.16 KB",
@@ -2219,6 +2536,7 @@
     "release": 5
   },
   {
+    "id": "872ab643-d31b-4c91-8887-e82071c077c4",
     "name": "Sunset Tanium 6.5 STIG - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Tanium_6-5_V1R3_STIG.zip",
     "size": "652.25 KB",
@@ -2226,6 +2544,7 @@
     "release": 3
   },
   {
+    "id": "4c8f69ee-4853-475d-9bbe-1ccab2b55aae",
     "name": "Sunset-CMD Policy STIG - Ver 2, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_CMD_Policy_V2R5_STIG.zip",
     "size": "278.93 KB",
@@ -2233,6 +2552,7 @@
     "release": 5
   },
   {
+    "id": "f4da928d-be44-435d-ab91-6787484ad9e1",
     "name": "Sunset-McAfee VirusScan 8.8 Managed Client STIG Benchmark - Ver 1, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_McAfee_VirusScan_8-8_Managed_Client_V1R3_STIG_SCAP_1-2_Benchmark.zip",
     "size": "25.45 KB",
@@ -2240,6 +2560,7 @@
     "release": 3
   },
   {
+    "id": "113abef5-0324-42fd-919e-d62c80af21e0",
     "name": "Sunset-MDM Server Policy STIG - Ver 2, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MDM_Server_Policy_V2R5_STIG.zip",
     "size": "639.29 KB",
@@ -2247,6 +2568,7 @@
     "release": 5
   },
   {
+    "id": "46c57788-4f74-497b-a8bf-6a5519a51d21",
     "name": "Sunset-Mobile Device Policy STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Mobile_Device_Policy_V2R6_STIG.zip",
     "size": "590.68 KB",
@@ -2254,6 +2576,7 @@
     "release": 6
   },
   {
+    "id": "7d7ccf52-c519-4f56-955b-507892c6508b",
     "name": "SUSE Linux Enterprise Server (SLES) 12 STIG - Ver 2, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SLES_12_V2R6_STIG.zip",
     "size": "773.15 KB",
@@ -2261,6 +2584,7 @@
     "release": 6
   },
   {
+    "id": "a9e071f8-2285-4c32-93a3-8b4fbfbd8759",
     "name": "SUSE Linux Enterprise Server (SLES) 15 STIG - Ver 1, Rel 6",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_SLES_15_V1R6_STIG.zip",
     "size": "824.13 KB",
@@ -2268,6 +2592,7 @@
     "release": 6
   },
   {
+    "id": "b5a7410b-069e-4cef-8c78-d824f203ad81",
     "name": "Tanium 7.0 STIG Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Tanium_7-0_V1R2_STIG.zip",
     "size": "694.53 KB",
@@ -2275,6 +2600,7 @@
     "release": 2
   },
   {
+    "id": "7a7b6891-fb25-4ea0-8989-94dd2e51a71e",
     "name": "Tanium 7.3 STIG - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Tanium_7-3_V2R2_STIG.zip",
     "size": "1.81 MB",
@@ -2282,6 +2608,7 @@
     "release": 2
   },
   {
+    "id": "8176ad45-1eb4-4072-aff0-024f032b9394",
     "name": "Traditional Security Checklist - Ver 2, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Traditional_Security_Manual_Checklist_V2R2.zip",
     "size": "521.64 KB",
@@ -2289,6 +2616,7 @@
     "release": 2
   },
   {
+    "id": "e15f3655-18ab-4100-8d3c-ddc5449a4637",
     "name": "Trend Micro Deep Security 9.x STIG Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Trend_Micro_Deep_Security_9-x_V1R1_STIG.zip",
     "size": "286.13 KB",
@@ -2296,6 +2624,7 @@
     "release": 1
   },
   {
+    "id": "042a36e3-a365-4e6a-a130-40227722fb7c",
     "name": "Video Services Policy STIG - Ver 1, Rel 11",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Video_Services_Policy_V1R11_STIG.zip",
     "size": "1.46 MB",
@@ -2303,6 +2632,7 @@
     "release": 11
   },
   {
+    "id": "c8418b60-acf5-4e08-a04a-cdd674d5e276",
     "name": "Virtual Private Network SRG - Version 2, Release 4",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VPN_V2R4_SRG.zip",
     "size": "747.39 KB",
@@ -2310,6 +2640,7 @@
     "release": 4
   },
   {
+    "id": "ca93c573-6189-4285-b43f-96f852346839",
     "name": "VMware Horizon 7.13 STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_Horizon_7-13_V1R1_STIG.zip",
     "size": "850.6 KB",
@@ -2317,6 +2648,7 @@
     "release": 1
   },
   {
+    "id": "62ff3bd4-4f35-4437-a991-494854f57cb8",
     "name": "VMware NSX Distributed Logical Router STIG, Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_NSX_Distributed_Logical_Router_V1R1_STIG.zip",
     "size": "250.55 KB",
@@ -2324,6 +2656,7 @@
     "release": 1
   },
   {
+    "id": "af79cac3-b4e9-4efa-9e6a-a06e54535cc8",
     "name": "VMware NSX Manager STIG, Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_NSX_Manager_V1R1_STIG.zip",
     "size": "261.53 KB",
@@ -2331,6 +2664,7 @@
     "release": 1
   },
   {
+    "id": "109280ff-2188-453c-869b-567ff036599b",
     "name": "VMware NSX STIG Overview, Ver 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMware_NSX_V1R1_Overview.zip",
     "size": "90.18 KB",
@@ -2338,6 +2672,7 @@
     "release": 1
   },
   {
+    "id": "1dd8c5e1-53b6-4736-9660-4e98770768bb",
     "name": "VMware NSX-T Data Center STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_NSX-T_V1R1_STIG.zip",
     "size": "5.13 MB",
@@ -2345,6 +2680,7 @@
     "release": 1
   },
   {
+    "id": "d25acc70-bc04-4d49-84f0-d805c087e074",
     "name": "VMWare vRealize Operations Manager Cassandra STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_vRealize_Ops_Mgr_Cassandra_V1R1_STIG.zip",
     "size": "357.2 KB",
@@ -2352,6 +2688,7 @@
     "release": 1
   },
   {
+    "id": "e3134db6-a6c4-40e2-86e3-7a0b57ebcac6",
     "name": "VMware vSphere 6.5 STIG for Ansible - Ver 1, Rel 2",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_vSphere_6-5_V1R2_STIG_Ansible.zip",
     "size": "490.76 KB",
@@ -2359,6 +2696,7 @@
     "release": 2
   },
   {
+    "id": "c7377420-fc0c-4062-bb2a-aa4117b3a178",
     "name": "VMware Workspace ONE UEM STIG- Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VMW_WS1_UEM_V2R1_STIG.zip",
     "size": "1.01 MB",
@@ -2366,6 +2704,7 @@
     "release": 1
   },
   {
+    "id": "aecda8ec-e033-47d6-8087-f3ec61f57d11",
     "name": "Voice Video Endpoint SRG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Voice_Video_Endpoint_V2R1_SRG.zip",
     "size": "848 KB",
@@ -2373,6 +2712,7 @@
     "release": 1
   },
   {
+    "id": "1b596c1e-2333-4e32-9896-9453f5e1a2e6",
     "name": "Voice Video over Internet Protocol STIG - Ver 3, Rel 14",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_VVoIP_V3R14_STIG.zip",
     "size": "4.29 MB",
@@ -2380,6 +2720,7 @@
     "release": 14
   },
   {
+    "id": "ea720634-3bfa-4e6b-892f-087db2b44f1b",
     "name": "Voice Video Services Policy STIG - Ver 3, Rel 17",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Voice_Video_Services_Policy_V3R17_STIG.zip",
     "size": "4.36 MB",
@@ -2387,6 +2728,7 @@
     "release": 17
   },
   {
+    "id": "24ff773a-f275-4ae1-985e-3857c2a98749",
     "name": "Voice Video Session Management SRG - Ver 2, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Voice_Video_Session_Mgmt_V2R1_SRG.zip",
     "size": "1019.78 KB",
@@ -2394,6 +2736,7 @@
     "release": 1
   },
   {
+    "id": "81cdfeaa-c44a-450b-a75d-3e2fce853fc8",
     "name": "Web Server Security Requirements Guide (SRG) - Ver 2, Rel 3",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Web_Server_V2R3_SRG.zip",
     "size": "706.58 KB",
@@ -2401,6 +2744,7 @@
     "release": 3
   },
   {
+    "id": "bd622a6a-67fd-46b7-a040-b1bb6d51bdec",
     "name": "z/OS ACF2 Products - Ver 6, Rel 53",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_zOS_ACF2_V6R53_Products.zip",
     "size": "9.02 MB",
@@ -2408,6 +2752,7 @@
     "release": 53
   },
   {
+    "id": "88b75131-6331-4666-bc24-87246b9a5ae2",
     "name": "z/OS RACF Products - Ver 6, Rel 53",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_zOS_RACF_V6R53_Products.zip",
     "size": "9.23 MB",
@@ -2415,6 +2760,7 @@
     "release": 53
   },
   {
+    "id": "551499a6-051c-4e4b-adbf-da56a6bd0098",
     "name": "z/OS TSS Products - Ver 6, Rel 53",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_zOS_TSS_V6R53_STIG.zip",
     "size": "9.04 MB",
@@ -2422,6 +2768,7 @@
     "release": 53
   },
   {
+    "id": "5e98e360-be30-4dcb-bbd4-46400b6d60c2",
     "name": "Zebra Android 11 COBO STIG - Ver 1, Rel 1",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Zebra_Android_11_COBO_V1R1_STIG.zip",
     "size": "972.69 KB",
@@ -2429,6 +2776,7 @@
     "release": 1
   },
   {
+    "id": "1aab4008-f822-4645-aa7a-70d9fc82df94",
     "name": "Sunset - Apache 2.0 Windows STIG - Ver 1, Rel 5",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Apache_2-0_WIN_V1R5_STIG.zip",
     "size": "494.44 KB",
@@ -2436,6 +2784,7 @@
     "release": 5
   },
   {
+    "id": "11c4321b-c993-4abb-b8e1-54e101eb69de",
     "name": "Sunset - Solaris 9 SPARC STIG Benchmark - Ver 1, Rel 12",
     "href": "https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_Solaris_9_SPARC_V1R12_STIG_SCAP_1-1_Benchmark.zip",
     "size": "56.53 KB",
