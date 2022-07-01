@@ -43,12 +43,14 @@ for row in table.find_all('tr'):
             if (href.lower().endswith('.zip')):
                 versionMatches = re.search(versionRegex, filename.upper())
                 if versionMatches is not None:
-                    version = versionMatches.group(0)
+                    versionString = versionMatches.group(0)
+                    versionNumber, releaseNumber = re.findall(r'\d+', versionString)
                     stigs.append({
                         'name': name,
                         'href': href,
                         'size': size,
-                        'version': version
+                        'version': int(versionNumber),
+                        'release': int(releaseNumber)
                     })
                 else:
                     print(f"Could not find version in {filename}")
